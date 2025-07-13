@@ -1,0 +1,3992 @@
+//GAME NAME:		CLOCK TOWER
+
+//BLOCK #000 NAME:		Kaiwa1
+
+//POINTER #0 @ $20010 - STRING #0 @ $20410
+
+#W16($20010)
+//<txt_color><$01>香水<line>
+//<end>
+
+
+
+//POINTER #1 @ $20012 - STRING #1 @ $20418
+
+#W16($20012)
+//<txt_color><$01>ハム<line>
+//<end>
+
+
+
+//POINTER #2 @ $20014 - STRING #2 @ $2041E
+
+#W16($20014)
+//<txt_color><$01>エンジンキー<line>
+//<end>
+
+
+
+//POINTER #3 @ $20016 - STRING #3 @ $20428
+
+#W16($20016)
+//<txt_color><$01>殺虫剤<line>
+//<end>
+
+
+
+//POINTER #4 @ $20018 - STRING #4 @ $20432
+
+#W16($20018)
+//<txt_color><$01>黒いローブ<line>
+//<end>
+
+
+
+//POINTER #5 @ $2001A - STRING #5 @ $2043C
+
+#W16($2001A)
+//<txt_color><$01>ロープ<line>
+//<end>
+
+
+
+//POINTER #6 @ $2001C - STRING #6 @ $20443
+
+#W16($2001C)
+//<txt_color><$01>青銅の短剣<line>
+//<end>
+
+
+
+//POINTER #7 @ $2001E - STRING #7 @ $20451
+
+#W16($2001E)
+//<txt_color><$01>とがった石<line>
+//<end>
+
+
+
+//POINTER #8 @ $20020 - STRING #8 @ $2045D
+
+#W16($20020)
+//<txt_color><$01>ランタン<line>
+//<end>
+
+
+
+//POINTER #9 @ $20022 - STRING #9 @ $20465
+
+#W16($20022)
+//<txt_color><$01>杖<line>
+//<end>
+
+
+
+//POINTER #10 @ $20024 - STRING #10 @ $2046B
+
+#W16($20024)
+//<txt_color><$01>小さな魔像<line>
+//<end>
+
+
+
+//POINTER #11 @ $20026 - STRING #11 @ $20477
+
+#W16($20026)
+//<txt_color><$01>巣ばこの鍵<line>
+//<end>
+
+
+
+//POINTER #12 @ $20028 - STRING #12 @ $20484
+
+#W16($20028)
+//<txt_color><$01>銅色の鍵<line>
+//<end>
+
+
+
+//POINTER #13 @ $2002A - STRING #13 @ $20490
+
+#W16($2002A)
+//<txt_color><$01>儀式の鍵<line>
+//<end>
+
+
+
+//POINTER #14 @ $2002C - STRING #14 @ $2049C
+
+#W16($2002C)
+//<txt_color><$01>銀色の鍵<line>
+//<end>
+
+
+
+//POINTER #15 @ $2002E - STRING #15 @ $204A8
+
+#W16($2002E)
+//<txt_color><$01>金色の鍵<line>
+//<end>
+
+
+
+//POINTER #16 @ $20030 - STRING #16 @ $204B4
+
+#W16($20030)
+//<txt_color><$01>西館の鍵<line>
+//<end>
+
+
+
+//POINTER #17 @ $20032 - STRING #17 @ $204C0
+
+#W16($20032)
+//ローラ、はやく!<end>
+
+
+
+//POINTER #18 @ $20034 - STRING #18 @ $204CB
+
+#W16($20034)
+//屋敷に着く前<line>
+//に日が<line>
+//暮れちゃう!<line>
+//<end>
+
+
+
+//POINTER #19 @ $20036 - STRING #19 @ $204E7
+
+#W16($20036)
+//メアリー<line>
+//先生・・・。<line>
+//<line>
+//何?<end>
+
+
+
+//POINTER #20 @ $20038 - STRING #20 @ $204FA
+
+#W16($20038)
+//私達のこれから<line>
+//住むところって<line>
+//どんなお屋敷<line>
+//なんですか?<end>
+
+
+
+//POINTER #21 @ $2003A - STRING #21 @ $20527
+
+#W16($2003A)
+//ふふっ、<line>
+//ゆうべから<line>
+//もう5回目ね。<end>
+
+
+
+//POINTER #22 @ $2003C - STRING #22 @ $20544
+
+#W16($2003C)
+//心配しないで。<end>
+
+
+
+//POINTER #23 @ $2003E - STRING #23 @ $2054F
+
+#W16($2003E)
+//とってもすてき<line>
+//なお屋敷よ。<line>
+//<end>
+
+
+
+//POINTER #24 @ $20040 - STRING #24 @ $20564
+
+#W16($20040)
+//もうすぐ<line>
+//見えると<line>
+//思うわ。<end>
+
+
+
+//POINTER #25 @ $20042 - STRING #25 @ $20579
+
+#W16($20042)
+//ほら・・・。<line>
+//<end>
+
+
+
+//POINTER #26 @ $20044 - STRING #26 @ $20583
+
+#W16($20044)
+//グラニット孤児院にて<line>
+//養育されていた少女、<line>
+//ジェニファーと友人達のもとに<line>
+//<end>
+
+
+
+//POINTER #27 @ $20046 - STRING #27 @ $205B6
+
+#W16($20046)
+//養女としてひきとりたい<line>
+//という要望が<line>
+//まいこんだのは<line>
+//<end>
+
+
+
+//POINTER #28 @ $20048 - STRING #28 @ $205DE
+
+#W16($20048)
+//その年の9月のこと<line>
+//である・・・<line>
+//<end>
+
+
+
+//POINTER #29 @ $2004A - STRING #29 @ $205F7
+
+#W16($2004A)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・。<avatar><$00><kuchipaku><$00><line>
+//<end>
+
+
+
+//POINTER #30 @ $2004C - STRING #30 @ $20609
+
+#W16($2004C)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$0A>・・・。<line>
+//<end>
+
+
+
+//POINTER #31 @ $2004E - STRING #31 @ $20617
+
+#W16($2004E)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・・・。<line>
+//<end>
+
+
+
+//POINTER #32 @ $20050 - STRING #32 @ $20627
+
+#W16($20050)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$0A>・・・・・。<line>
+//<end>
+
+
+
+//POINTER #33 @ $20052 - STRING #33 @ $20637
+
+#W16($20052)
+//<txt_color><$00><avatar><$00><kuchipaku><$00>!<wait><$06><line>
+//<end>
+
+
+
+//POINTER #34 @ $20054 - STRING #34 @ $20642
+
+#W16($20054)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>!<wait><$03><line>
+//<end>
+
+
+
+//POINTER #35 @ $20056 - STRING #35 @ $2064D
+
+#W16($20056)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>むこうへ行くのは<line>
+//無理のようだ<end>
+
+
+
+//POINTER #36 @ $20058 - STRING #36 @ $2066D
+
+#W16($20058)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>すっかり<line>
+//暗くなっている<end>
+
+
+
+//POINTER #37 @ $2005A - STRING #37 @ $20685
+
+#W16($2005A)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>外は屋敷の中庭<line>
+//のようだ<end>
+
+
+
+//POINTER #38 @ $2005C - STRING #38 @ $206A2
+
+#W16($2005C)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>窓の外には格子が<line>
+//はまっている<end>
+
+
+
+//POINTER #39 @ $2005E - STRING #39 @ $206C3
+
+#W16($2005E)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>窓の下に中庭のプール<line>
+//が見えている<end>
+
+
+
+//POINTER #40 @ $20060 - STRING #40 @ $206E4
+
+#W16($20060)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>電灯スイッチは<line>
+//壊れている<end>
+
+
+
+//POINTER #41 @ $20062 - STRING #41 @ $206FE
+
+#W16($20062)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>空っぽだ・・・<line>
+//<end>
+
+
+
+//POINTER #42 @ $20064 - STRING #42 @ $20711
+
+#W16($20064)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>壁に深い亀裂が<line>
+//入っている<wait><$02><end>
+
+
+
+//POINTER #43 @ $20066 - STRING #43 @ $2072F
+
+#W16($20066)
+//<txt_color><$01>今にも崩れそうだ<end>
+
+
+
+//POINTER #44 @ $20068 - STRING #44 @ $2073F
+
+#W16($20068)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>いきどまりだ・・・<line>
+//<end>
+
+
+
+//POINTER #45 @ $2006A - STRING #45 @ $20754
+
+#W16($2006A)
+//コントローラーがただしくせつぞくされていません<line>
+//<end>
+
+
+
+//POINTER #46 @ $2006C - STRING #46 @ $20773
+
+#W16($2006C)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>反応が無い<line>
+//<end>
+
+
+
+//POINTER #47 @ $2006E - STRING #47 @ $20784
+
+#W16($2006E)
+//ABCDEFGHIKLMNOQRSTU・cleared➢<line>
+//<end>
+
+
+
+//POINTER #48 @ $20070 - STRING #48 @ $207A2
+
+#W16($20070)
+//こうしてジェニファーは<line>
+//孤児院へともどった。<line>
+//彼女が自室で変死しているのが<line>
+//発見されたのは<line>
+//それから3日後の<line>
+//ことである・・・<end>
+
+
+
+//POINTER #49 @ $20072 - STRING #49 @ $20801
+
+#W16($20072)
+//<txt_color><$00><avatar><$03><kuchipaku><$01><txt_spd><$07>なんだか<txt_spd><$0A>・・・<wait><$02><end>
+
+
+
+//POINTER #50 @ $20074 - STRING #50 @ $20817
+
+#W16($20074)
+//<avatar><$00><kuchipaku><$01><txt_spd><$05>え?<wait><$04><end>
+
+
+
+//POINTER #51 @ $20076 - STRING #51 @ $20822
+
+#W16($20076)
+//<avatar><$03><kuchipaku><$01><txt_spd><$07>広すぎて<line>
+//箔ち着かないね。<end>
+
+
+
+//POINTER #52 @ $20078 - STRING #52 @ $2083B
+
+#W16($20078)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>ねえ、アン<kuchipaku><$02><txt_spd><$0A>・・・<txt_spd><$05><end>
+
+
+
+//POINTER #53 @ $2007A - STRING #53 @ $20853
+
+#W16($2007A)
+//<avatar><$04><kuchipaku><$01>「バロウズさんて<line>
+//どんな人かな?」<kuchipaku><$02><wait><$02><kuchipaku><$01><end>
+
+
+
+//POINTER #54 @ $2007C - STRING #54 @ $20873
+
+#W16($2007C)
+//でしょ。<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #55 @ $2007E - STRING #55 @ $2087E
+
+#W16($2007E)
+//<avatar><$00><kuchipaku><$01>うん。<end>
+
+
+
+//POINTER #56 @ $20080 - STRING #56 @ $20887
+
+#W16($20080)
+//<txt_color><$00><avatar><$05><kuchipaku><$01><txt_spd><$05>ここ、私はすきに<line>
+//なれそうにないわ。<wait><$02><end>
+
+
+
+//POINTER #57 @ $20082 - STRING #57 @ $208A8
+
+#W16($20082)
+//<avatar><$00><kuchipaku><$00>・・・?<wait><$02><end>
+
+
+
+//POINTER #58 @ $20084 - STRING #58 @ $208B3
+
+#W16($20084)
+//<avatar><$04><kuchipaku><$01>ロッテはねえ、<wait><$02>心配症<line>
+//なのよ。<wait><$02><end>
+
+
+
+//POINTER #59 @ $20086 - STRING #59 @ $208D2
+
+#W16($20086)
+//<avatar><$05><kuchipaku><$02>・・・・・。<end>
+
+
+
+//POINTER #60 @ $20088 - STRING #60 @ $208DD
+
+#W16($20088)
+//<txt_color><$00><avatar><$03><kuchipaku><$01><txt_spd><$07>先生どうしたのかな。<line>
+//<end>
+
+
+
+//POINTER #61 @ $2008A - STRING #61 @ $208F5
+
+#W16($2008A)
+//<txt_color><$00><avatar><$04><kuchipaku><$01><txt_spd><$05>ね、<wait><$02>ちょっと先生の<line>
+//様子を見てきてよ。<end>
+
+
+
+//POINTER #62 @ $2008C - STRING #62 @ $2091E
+
+#W16($2008C)
+//<txt_color><$00><avatar><$05><kuchipaku><$01><txt_spd><$05>先生<kuchipaku><$00>・・・<kuchipaku><$01>おそいわ。<wait><$02><end>
+
+
+
+//POINTER #63 @ $2008E - STRING #63 @ $2093A
+
+#W16($2008E)
+//<avatar><$05><kuchipaku><$01>私<wait><$02>ちょっと<line>
+//見てこようか?<wait><$02><end>
+
+
+
+//POINTER #64 @ $20090 - STRING #64 @ $20955
+
+#W16($20090)
+//<avatar><$00><kuchipaku><$00>いいわ<kuchipaku><$02>、<wait><$02><kuchipaku><$01><txt_spd><$03>私見てくる。<end>
+
+
+
+//POINTER #65 @ $20092 - STRING #65 @ $20970
+
+#W16($20092)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>むこうへ行くのは<line>
+//無理のようだ<end>
+
+
+
+//POINTER #66 @ $20094 - STRING #66 @ $20990
+
+#W16($20094)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・?<wait><$02><end>
+
+
+
+//POINTER #67 @ $20096 - STRING #67 @ $2099F
+
+#W16($20096)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>開かない・・・<end>
+
+
+
+//POINTER #68 @ $20098 - STRING #68 @ $209AE
+
+#W16($20098)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>みんな<kuchipaku><$02>・・・?<wait><$04><end>
+
+
+
+//POINTER #69 @ $2009A - STRING #69 @ $209C4
+
+#W16($2009A)
+//<avatar><$00><kuchipaku><$01><txt_spd><$03>ちょっと、イタズラは<line>
+//止めてよ!<kuchipaku><$02><wait><$06><end>
+
+
+
+//POINTER #70 @ $2009C - STRING #70 @ $209E5
+
+#W16($2009C)
+//<avatar><$00><txt_spd><$0A>・・・。<end>
+
+
+
+//POINTER #71 @ $2009E - STRING #71 @ $209EE
+
+#W16($2009E)
+//<txt_color><$00><avatar><$01><kuchipaku><$01><txt_spd><$04>先生は屋敷の方にご<line>
+//あいさつしてきます。<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #72 @ $200A0 - STRING #72 @ $20A18
+
+#W16($200A0)
+//<kuchipaku><$01>みなさんはここに<line>
+//いるのですよ。<end>
+
+
+
+//POINTER #73 @ $200A2 - STRING #73 @ $20A32
+
+#W16($200A2)
+//<txt_color><$00><avatar><$03><kuchipaku><$01><txt_spd><$07>おっきい家<kuchipaku><$00><txt_spd><$03>・・・。<line>
+//<end>
+
+
+
+//POINTER #74 @ $200A4 - STRING #74 @ $20A4B
+
+#W16($200A4)
+//<txt_color><$00><avatar><$04><kuchipaku><$01><txt_spd><$05>ほんと。<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #75 @ $200A6 - STRING #75 @ $20A5E
+
+#W16($200A6)
+//<kuchipaku><$01><txt_spd><$05>大広間だけでこんなに<line>
+//大きいなんて<kuchipaku><$00><txt_spd><$07>・・・。<end>
+
+
+
+//POINTER #76 @ $200A8 - STRING #76 @ $20A84
+
+#W16($200A8)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>!?<wait><$02><line>
+//<avatar><$00><kuchipaku><$01><txt_spd><$05>大広間からだわ!<end>
+
+
+
+//POINTER #77 @ $200AA - STRING #77 @ $20AA4
+
+#W16($200AA)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>電気が消えている<wait><$02><end>
+
+
+
+//POINTER #78 @ $200AC - STRING #78 @ $20ABA
+
+#W16($200AC)
+//<txt_spd><$05>電灯のスイッチは<line>
+//どこかしら。<end>
+
+
+
+//POINTER #79 @ $200AE - STRING #79 @ $20AD2
+
+#W16($200AE)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>すわりごこちの良さ<line>
+//そうなソファーだ<line>
+//<end>
+
+
+
+//POINTER #80 @ $200B0 - STRING #80 @ $20AF2
+
+#W16($200B0)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ガラクタがゴチャゴチ<line>
+//ャとつまっている<line>
+//<end>
+
+
+
+//POINTER #81 @ $200B2 - STRING #81 @ $20B11
+
+#W16($200B2)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>鍵が入っている<wait><$02><end>
+
+
+
+//POINTER #82 @ $200B4 - STRING #82 @ $20B26
+
+#W16($200B4)
+//『西館の鍵』を<line>
+//ポケットに入れた<end>
+
+
+
+//POINTER #83 @ $200B6 - STRING #83 @ $20B40
+
+#W16($200B6)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>どうやら<line>
+//壊れているようだ<end>
+
+
+
+//POINTER #84 @ $200B8 - STRING #84 @ $20B5C
+
+#W16($200B8)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>すっかり<line>
+//暗くなっている<wait><$02><end>
+
+
+
+//POINTER #85 @ $200BA - STRING #85 @ $20B76
+
+#W16($200BA)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>今何時かしら・・・。<end>
+
+
+
+//POINTER #86 @ $200BC - STRING #86 @ $20B8D
+
+#W16($200BC)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>左側のベッドは使われ<line>
+//ていないようだ<end>
+
+
+
+//POINTER #87 @ $200BE - STRING #87 @ $20BAF
+
+#W16($200BE)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>オウム<kuchipaku><$02><txt_spd><$0A>・・・?<line>
+//<end>
+
+
+
+//POINTER #88 @ $200C0 - STRING #88 @ $20BC4
+
+#W16($200C0)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>中は空っぽだ・・・<line>
+//<end>
+
+
+
+//POINTER #89 @ $200C2 - STRING #89 @ $20BDB
+
+#W16($200C2)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>電気スタンドが<line>
+//置かれている<end>
+
+
+
+//POINTER #90 @ $200C4 - STRING #90 @ $20BF6
+
+#W16($200C4)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>何かしら・・・。<line>
+//<end>
+
+
+
+//POINTER #91 @ $200C6 - STRING #91 @ $20C0A
+
+#W16($200C6)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>小さな香水のビンが<line>
+//置いてある<wait><$02><end>
+
+
+
+//POINTER #92 @ $200C8 - STRING #92 @ $20C29
+
+#W16($200C8)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・・・。<wait><$02><end>
+
+
+
+//POINTER #93 @ $200CA - STRING #93 @ $20C3A
+
+#W16($200CA)
+//この香水、<wait><$02>メアリー<line>
+//先生のとおなじだわ。<wait><$02><end>
+
+
+
+//POINTER #94 @ $200CC - STRING #94 @ $20C5C
+
+#W16($200CC)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>『香水』を手に入れた<end>
+
+
+
+//POINTER #95 @ $200CE - STRING #95 @ $20C77
+
+#W16($200CE)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>く<kuchipaku><$02>・・・<line>
+//<kuchipaku><$01>くくっ<kuchipaku><$01>・・・。<end>
+
+
+
+//POINTER #96 @ $200D0 - STRING #96 @ $20C93
+
+#W16($200D0)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$0A>ぐ<kuchipaku><$00>・・・ぇっ・・・<wait><$04><line>
+//<kuchipaku><$01><txt_spd><$01>げほっ<kuchipaku><$00>・・・。<end>
+
+
+
+//POINTER #97 @ $200D2 - STRING #97 @ $20CBD
+
+#W16($200D2)
+//<txt_color><$00><kuchipaku><$02>うあ<txt_spd><$0A>・・・あ・・・。<wait><$04><line>
+//<end>
+
+
+
+//POINTER #98 @ $200D4 - STRING #98 @ $20CD1
+
+#W16($200D4)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>水は出るようだ<line>
+//<end>
+
+
+
+//POINTER #99 @ $200D6 - STRING #99 @ $20CE6
+
+#W16($200D6)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・べつに<line>
+//したくないわ。<end>
+
+
+
+//POINTER #100 @ $200D8 - STRING #100 @ $20CFF
+
+#W16($200D8)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$02>したくないってば。<line>
+//<end>
+
+
+
+//POINTER #101 @ $200DA - STRING #101 @ $20D14
+
+#W16($200DA)
+//<avatar><$00><kuchipaku><$02><txt_color><$01>中扉をロックした!<wait><$02><line>
+//<end>
+
+
+
+//POINTER #102 @ $200DC - STRING #102 @ $20D2A
+
+#W16($200DC)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>シャワーは<line>
+//使えるようだ<end>
+
+
+
+//POINTER #103 @ $200DE - STRING #103 @ $20D42
+
+#W16($200DE)
+//<avatar><$00><kuchipaku><$01><txt_spd><$05>ロー<kuchipaku><$02><txt_spd><$0A>・・・<kuchipaku><$01><wait><$02>ラ。<end>
+
+
+
+//POINTER #104 @ $200E0 - STRING #104 @ $20D58
+
+#W16($200E0)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$0A>・・・<avatar><$00><kuchipaku><$01><txt_spd><$05>誰?<kuchipaku><$02><wait><$04><line>
+//<end>
+
+
+
+//POINTER #105 @ $200E2 - STRING #105 @ $20D72
+
+#W16($200E2)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>メアリー<kuchipaku><$02>・・・<wait><$02><kuchipaku><$01><line>
+//先生<kuchipaku><$02>・・・。<wait><$06><end>
+
+
+
+//POINTER #106 @ $200E4 - STRING #106 @ $20D95
+
+#W16($200E4)
+//<avatar><$01><kuchipaku><$01><txt_spd><$08>ジェニファー、<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #107 @ $200E6 - STRING #107 @ $20DA7
+
+#W16($200E6)
+//<kuchipaku><$01><txt_spd><$07>あなたはなんて<line>
+//いけない娘なの<kuchipaku><$02>。<wait><$02><end>
+
+
+
+//POINTER #108 @ $200E8 - STRING #108 @ $20DC4
+
+#W16($200E8)
+//<kuchipaku><$01><txt_spd><$08>私の<kuchipaku><$02><txt_spd><$02>・・・<wait><$04><end>
+
+
+
+//POINTER #109 @ $200EA - STRING #109 @ $20DD6
+
+#W16($200EA)
+//<txt_spd><$01><avatar><$0A><kuchipaku><$00>私のぼうやを殺して<line>
+//しまうなんて!!<end>
+
+
+
+//POINTER #110 @ $200EC - STRING #110 @ $20DF7
+
+#W16($200EC)
+//<txt_color><$00><avatar><$02><kuchipaku><$01><txt_spd><$02>ボビィ!<kuchipaku><$02><wait><$02> <kuchipaku><$01><txt_spd><$02>ボビィ!<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #111 @ $200EE - STRING #111 @ $20E15
+
+#W16($200EE)
+//<kuchipaku><$01>あの女を!<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #112 @ $200F0 - STRING #112 @ $20E24
+
+#W16($200F0)
+//<kuchipaku><$01>ダンを殺したあの女を<line>
+//捕まえるのよ!!<end>
+
+
+
+//POINTER #113 @ $200F2 - STRING #113 @ $20E44
+
+#W16($200F2)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$03>メアリー先生!<kuchipaku><$00><wait><$04><end>
+
+
+
+//POINTER #114 @ $200F4 - STRING #114 @ $20E5A
+
+#W16($200F4)
+//<avatar><$01><kuchipaku><$01><txt_spd><$07>良かったわ、<line>
+//ジェニファー。<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #115 @ $200F6 - STRING #115 @ $20E76
+
+#W16($200F6)
+//<avatar><$01><kuchipaku><$01><txt_spd><$08>無事だったのね。<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #116 @ $200F8 - STRING #116 @ $20E8F
+
+#W16($200F8)
+//<avatar><$00><kuchipaku><$01><txt_spd><$03>先生!!<end>
+
+
+
+//POINTER #117 @ $200FA - STRING #117 @ $20E9C
+
+#W16($200FA)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$08>な<kuchipaku><$02>・・・<kuchipaku><$01>ぜ<kuchipaku><$02>。<wait><$04><end>
+
+
+
+//POINTER #118 @ $200FC - STRING #118 @ $20EB4
+
+#W16($200FC)
+//<avatar><$01><kuchipaku><$02><txt_spd><$05>・・・・・。<end>
+
+
+
+//POINTER #119 @ $200FE - STRING #119 @ $20EC1
+
+#W16($200FE)
+//<txt_color><$00><avatar><$07><kuchipaku><$00><txt_spd><$02>アン!!<wait><$02><line>
+//<end>
+
+
+
+//POINTER #120 @ $20100 - STRING #120 @ $20ED1
+
+#W16($20100)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・。<wait><$02><end>
+
+
+
+//POINTER #121 @ $20102 - STRING #121 @ $20EE0
+
+#W16($20102)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>鍵がかかっている<line>
+//ようだ<end>
+
+
+
+//POINTER #122 @ $20104 - STRING #122 @ $20EFB
+
+#W16($20104)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>『西館の鍵』を使った<end>
+
+
+
+//POINTER #123 @ $20106 - STRING #123 @ $20F15
+
+#W16($20106)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>鍵がかかっている<line>
+//<end>
+
+
+
+//POINTER #124 @ $20108 - STRING #124 @ $20F29
+
+#W16($20108)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>『金色の鍵』を使った<line>
+//<end>
+
+
+
+//POINTER #125 @ $2010A - STRING #125 @ $20F44
+
+#W16($2010A)
+//<txt_color><$00><avatar><$00><kuchipaku><$00>・・・。<wait><$02><end>
+
+
+
+//POINTER #126 @ $2010C - STRING #126 @ $20F51
+
+#W16($2010C)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>開かない・・・<end>
+
+
+
+//POINTER #127 @ $2010E - STRING #127 @ $20F60
+
+#W16($2010E)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>『銀色の鍵』を使った<line>
+//<end>
+
+
+
+//POINTER #128 @ $20110 - STRING #128 @ $20F7B
+
+#W16($20110)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ガス台がならんでいる<end>
+
+
+
+//POINTER #129 @ $20112 - STRING #129 @ $20F92
+
+#W16($20112)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ゴツゴツした<line>
+//鉄のフライパンだ<end>
+
+
+
+//POINTER #130 @ $20114 - STRING #130 @ $20FAB
+
+#W16($20114)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>食器が中に<line>
+//おさめられている<end>
+
+
+
+//POINTER #131 @ $20116 - STRING #131 @ $20FC8
+
+#W16($20116)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>殺虫剤をまいた!<line>
+//<end>
+
+
+
+//POINTER #132 @ $20118 - STRING #132 @ $20FDD
+
+#W16($20118)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・鍵が箔ちてる。<wait><$02><end>
+
+
+
+//POINTER #133 @ $2011A - STRING #133 @ $20FF6
+
+#W16($2011A)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>『金色の鍵』を<line>
+//ポケットに入れた<end>
+
+
+
+//POINTER #134 @ $2011C - STRING #134 @ $21016
+
+#W16($2011C)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>カレンダーだ<wait><$02><end>
+
+
+
+//POINTER #135 @ $2011E - STRING #135 @ $21026
+
+#W16($2011E)
+//今日の日付にしるしが<line>
+//付けられている<end>
+
+
+
+//POINTER #136 @ $20120 - STRING #136 @ $21044
+
+#W16($20120)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>飲み物のビンがいくつ<line>
+//もならんでいる<end>
+
+
+
+//POINTER #137 @ $20122 - STRING #137 @ $21067
+
+#W16($20122)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>飲み物を飲んだ。<wait><$02><end>
+
+
+
+//POINTER #138 @ $20124 - STRING #138 @ $2107F
+
+#W16($20124)
+//<avatar><$00><kuchipaku><$00><txt_spd><$05><txt_color><$01>・・・<txt_spd><$01>少し元気が<line>
+//出た<end>
+
+
+
+//POINTER #139 @ $20126 - STRING #139 @ $2109A
+
+#W16($20126)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>飲み物を飲んだ。<wait><$04><end>
+
+
+
+//POINTER #140 @ $20128 - STRING #140 @ $210B2
+
+#W16($20128)
+//<txt_color><$00><avatar><$00><kuchipaku><$01>う<kuchipaku><$00><txt_spd><$0A>・・・。<wait><$02><end>
+
+
+
+//POINTER #141 @ $2012A - STRING #141 @ $210C4
+
+#W16($2012A)
+//<kuchipaku><$01><txt_spd><$03>あた<kuchipaku><$02><txt_spd><$05>・・・<line>
+//<kuchipaku><$01>まが<kuchipaku><$02>・・・。<end>
+
+
+
+//POINTER #142 @ $2012C - STRING #142 @ $210DF
+
+#W16($2012C)
+//<avatar><$00><kuchipaku><$00><txt_color><$01><wait><$02>中にはハムが<line>
+//1つ入っている<wait><$02><end>
+
+
+
+//POINTER #143 @ $2012E - STRING #143 @ $210FE
+
+#W16($2012E)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>『ハム』を手に入れた<end>
+
+
+
+//POINTER #144 @ $20130 - STRING #144 @ $21115
+
+#W16($20130)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>奥に光るものがある<wait><$02><end>
+
+
+
+//POINTER #145 @ $20132 - STRING #145 @ $2112E
+
+#W16($20132)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>!<wait><$03><end>
+
+
+
+//POINTER #146 @ $20134 - STRING #146 @ $21138
+
+#W16($20134)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>鍵が置いてある<wait><$02><end>
+
+
+
+//POINTER #147 @ $20136 - STRING #147 @ $2114C
+
+#W16($20136)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>車のキーだわ。<wait><$02><end>
+
+
+
+//POINTER #148 @ $20138 - STRING #148 @ $21162
+
+#W16($20138)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>『エンジンキー』を<line>
+//ポケットに入れた<end>
+
+
+
+//POINTER #149 @ $2013A - STRING #149 @ $21182
+
+#W16($2013A)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>もう何も無いようだ<line>
+//<end>
+
+
+
+//POINTER #150 @ $2013C - STRING #150 @ $21199
+
+#W16($2013C)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>この車ならにげ<line>
+//られるかも<kuchipaku><$00>・・・。<wait><$04><end>
+
+
+
+//POINTER #151 @ $2013E - STRING #151 @ $211BF
+
+#W16($2013E)
+//<kuchipaku><$01><txt_spd><$05>でも<kuchipaku><$00><txt_spd><$0A>・・・。<wait><$02><line>
+//<kuchipaku><$01><txt_spd><$05>他のみんなは<kuchipaku><$00><txt_spd><$0A>・・・。<end>
+
+
+
+//POINTER #152 @ $20140 - STRING #152 @ $211EA
+
+#W16($20140)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>どうしよう<kuchipaku><$00><txt_spd><$0A>・・・。<line>
+//<end>
+
+
+
+//POINTER #153 @ $20142 - STRING #153 @ $21203
+
+#W16($20142)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>エンジンキーが<line>
+//ささっていない<end>
+
+
+
+//POINTER #154 @ $20144 - STRING #154 @ $2121B
+
+#W16($20144)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>割れた食器が<line>
+//入っている<end>
+
+
+
+//POINTER #155 @ $20146 - STRING #155 @ $21236
+
+#W16($20146)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>食器が入っている<line>
+//<end>
+
+
+
+//POINTER #156 @ $20148 - STRING #156 @ $2124C
+
+#W16($20148)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>服が入っている<wait><$02><end>
+
+
+
+//POINTER #157 @ $2014A - STRING #157 @ $21261
+
+#W16($2014A)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>何・・・<line>
+//この服・・・。<wait><$02><end>
+
+
+
+//POINTER #158 @ $2014C - STRING #158 @ $2127B
+
+#W16($2014C)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>『黒いローブ』を<line>
+//手に入れた<end>
+
+
+
+//POINTER #159 @ $2014E - STRING #159 @ $21299
+
+#W16($2014E)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>何も入っていない<line>
+//<end>
+
+
+
+//POINTER #160 @ $20150 - STRING #160 @ $212AD
+
+#W16($20150)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ロープが置いてある<line>
+//<end>
+
+
+
+//POINTER #161 @ $20152 - STRING #161 @ $212C1
+
+#W16($20152)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ロープが置いてある<wait><$02><end>
+
+
+
+//POINTER #162 @ $20154 - STRING #162 @ $212D6
+
+#W16($20154)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>『ロープ』を<line>
+//手に入れた<end>
+
+
+
+//POINTER #163 @ $20156 - STRING #163 @ $212EF
+
+#W16($20156)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・<kuchipaku><$01>ダメ、<line>
+//のぼれないわ。<end>
+
+
+
+//POINTER #164 @ $20158 - STRING #164 @ $2130C
+
+#W16($20158)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>あちこちが<line>
+//いたんでいる<end>
+
+
+
+//POINTER #165 @ $2015A - STRING #165 @ $21323
+
+#W16($2015A)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>なかみは殺虫剤だ<wait><$02><end>
+
+
+
+//POINTER #166 @ $2015C - STRING #166 @ $2133A
+
+#W16($2015C)
+//『殺虫剤』を<line>
+//手に入れた<end>
+
+
+
+//POINTER #167 @ $2015E - STRING #167 @ $21350
+
+#W16($2015E)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>げ・・・ほっ<line>
+//・・・ごほっ。<wait><$02><end>
+
+
+
+//POINTER #168 @ $20160 - STRING #168 @ $2136F
+
+#W16($20160)
+//<txt_color><$00><avatar><$07><kuchipaku><$00><txt_spd><$02>っつ・・・!<line>
+//<end>
+
+
+
+//POINTER #169 @ $20162 - STRING #169 @ $21380
+
+#W16($20162)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>ん<kuchipaku><$00>・・・<kuchipaku><$01>くっ<kuchipaku><$00>・・・。<line>
+//<end>
+
+
+
+//POINTER #170 @ $20164 - STRING #170 @ $2139C
+
+#W16($20164)
+//<avatar><$00><kuchipaku><$00><txt_color><$01><txt_spd><$0A>・・・<txt_spd><$05>外の方から<line>
+//悲鳴が聞こえる<end>
+
+
+
+//POINTER #171 @ $20166 - STRING #171 @ $213C0
+
+#W16($20166)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>中庭のプールが<line>
+//見える<end>
+
+
+
+//POINTER #172 @ $20168 - STRING #172 @ $213D8
+
+#W16($20168)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・・・。<wait><$02><end>
+
+
+
+//POINTER #173 @ $2016A - STRING #173 @ $213E9
+
+#W16($2016A)
+//<wait><$04><avatar><$07><kuchipaku><$00><txt_spd><$02>アン!!<kuchipaku><$00><wait><$0A><end>
+
+
+
+//POINTER #174 @ $2016C - STRING #174 @ $213FA
+
+#W16($2016C)
+//<avatar><$00><kuchipaku><$00><txt_spd><$0A>・・・・・。<end>
+
+
+
+//POINTER #175 @ $2016E - STRING #175 @ $21407
+
+#W16($2016E)
+//<txt_color><$00><avatar><$00><kuchipaku><$00>?<wait><$04><end>
+
+
+
+//POINTER #176 @ $20170 - STRING #176 @ $21411
+
+#W16($20170)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>何かに扉がつっかえて<line>
+//いるようだ<end>
+
+
+
+//POINTER #177 @ $20172 - STRING #177 @ $2142F
+
+#W16($20172)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$03>開いた!<line>
+//<end>
+
+
+
+//POINTER #178 @ $20174 - STRING #178 @ $2143E
+
+#W16($20174)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>短剣のようだ<wait><$02><end>
+
+
+
+//POINTER #179 @ $20176 - STRING #179 @ $21452
+
+#W16($20176)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>『青銅の短剣』を<line>
+//手に入れた<end>
+
+
+
+//POINTER #180 @ $20178 - STRING #180 @ $21472
+
+#W16($20178)
+//<txt_color><$00><avatar><$06><kuchipaku><$01><txt_spd><$08>う<kuchipaku><$02>・・・<kuchipaku><$01>へ<kuchipaku><$02>・・・。<wait><$02><end>
+
+
+
+//POINTER #181 @ $2017A - STRING #181 @ $2148D
+
+#W16($2017A)
+//<avatar><$07><kuchipaku><$00><txt_spd><$03>だ、誰!?<wait><$02><end>
+
+
+
+//POINTER #182 @ $2017C - STRING #182 @ $2149D
+
+#W16($2017C)
+//<avatar><$06><kuchipaku><$01><txt_spd><$08>ひ<kuchipaku><$00>・・・<kuchipaku><$01>ひ<kuchipaku><$00>・・・。<end>
+
+
+
+//POINTER #183 @ $2017E - STRING #183 @ $214B5
+
+#W16($2017E)
+//<kuchipaku><$01><txt_spd><$03>クイ<kuchipaku><$00><txt_spd><$0A>・・<kuchipaku><$01><txt_spd><$03>モノ<kuchipaku><$00><txt_spd><$0A>・・・。<end>
+
+
+
+//POINTER #184 @ $20180 - STRING #184 @ $214D0
+
+#W16($20180)
+//<txt_color><$00><avatar><$06><kuchipaku><$01><txt_spd><$05>ひへっ、<line>
+//<wait><$02><txt_spd><$02>クイモノだぁぁ!!<end>
+
+
+
+//POINTER #185 @ $20182 - STRING #185 @ $214F1
+
+#W16($20182)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>こ、<wait><$02>これ<kuchipaku><$00>・・・。<line>
+//<end>
+
+
+
+//POINTER #186 @ $20184 - STRING #186 @ $21508
+
+#W16($20184)
+//<txt_color><$00><avatar><$05><kuchipaku><$01><txt_spd><$03>ジェニファー、<line>
+//<kuchipaku><$02><wait><$02>無事だったんだね。<wait><$02><end>
+
+
+
+//POINTER #187 @ $20186 - STRING #187 @ $2152F
+
+#W16($20186)
+//<avatar><$00><kuchipaku><$01>ロッテ!!<wait><$02><end>
+
+
+
+//POINTER #188 @ $20188 - STRING #188 @ $2153B
+
+#W16($20188)
+//<avatar><$05><kuchipaku><$01>待ってて、<line>
+//<kuchipaku><$00><wait><$02><kuchipaku><$01>すぐに開けるから。<end>
+
+
+
+//POINTER #189 @ $2018A - STRING #189 @ $2155B
+
+#W16($2018A)
+//<txt_color><$00><avatar><$05><kuchipaku><$01><txt_spd><$05>良かった。<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #190 @ $2018C - STRING #190 @ $2156F
+
+#W16($2018C)
+//<kuchipaku><$01><txt_spd><$05>メアリーの来る前に<line>
+//にげよう!<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #191 @ $2018E - STRING #191 @ $2158D
+
+#W16($2018E)
+//<avatar><$00><kuchipaku><$01><txt_spd><$05>え<kuchipaku><$00>・・・?<end>
+
+
+
+//POINTER #192 @ $20190 - STRING #192 @ $2159B
+
+#W16($20190)
+//<avatar><$05><kuchipaku><$01><txt_spd><$03>いそいで、<line>
+//<wait><$02>ジェニファー。<end>
+
+
+
+//POINTER #193 @ $20192 - STRING #193 @ $215B2
+
+#W16($20192)
+//<txt_color><$00><avatar><$01><kuchipaku><$01><txt_spd><$06>ほんとに世話のやける<line>
+//子達だこと。<kuchipaku><$00><wait><$04><end>
+
+
+
+//POINTER #194 @ $20194 - STRING #194 @ $215DA
+
+#W16($20194)
+//<kuchipaku><$01>ジェニファー、<kuchipaku><$00><wait><$02><kuchipaku><$01>そこで<line>
+//待っていなさい。<kuchipaku><$00><wait><$04><end>
+
+
+
+//POINTER #195 @ $20196 - STRING #195 @ $215FD
+
+#W16($20196)
+//<kuchipaku><$01><txt_spd><$08>おしおき<line>
+//してあげるわ。<end>
+
+
+
+//POINTER #196 @ $20198 - STRING #196 @ $21611
+
+#W16($20198)
+//<wait><$04><txt_color><$00><avatar><$01><kuchipaku><$01><txt_spd><$04>隠れても無駄よ。<kuchipaku><$00><wait><$04><end>
+
+
+
+//POINTER #197 @ $2019A - STRING #197 @ $2162E
+
+#W16($2019A)
+//<kuchipaku><$01><txt_spd><$03>出てらっしゃい、<line>
+//ジェニファー。<end>
+
+
+
+//POINTER #198 @ $2019C - STRING #198 @ $21647
+
+#W16($2019C)
+//<txt_color><$00><avatar><$01><kuchipaku><$01><txt_spd><$08>こんなところに<line>
+//隠れて<kuchipaku><$00>・・・。<wait><$02><end>
+
+
+
+//POINTER #199 @ $2019E - STRING #199 @ $21667
+
+#W16($2019E)
+//<kuchipaku><$01>まるで<line>
+//ドロボウ猫ねぇ。<end>
+
+
+
+//POINTER #200 @ $201A0 - STRING #200 @ $2167C
+
+#W16($201A0)
+//<txt_color><$00><avatar><$01><kuchipaku><$01><txt_spd><$05>ジェニファー、<kuchipaku><$00><wait><$04><txt_spd><$07><kuchipaku><$01>先生を<line>
+//こまらせないで。<end>
+
+
+
+//POINTER #201 @ $201A2 - STRING #201 @ $216A6
+
+#W16($201A2)
+//<txt_color><$00><avatar><$01><kuchipaku><$01><txt_spd><$07>おしおきして<line>
+//あげるわ<kuchipaku><$00>・・・。<wait><$02><end>
+
+
+
+//POINTER #202 @ $201A4 - STRING #202 @ $216C5
+
+#W16($201A4)
+//<kuchipaku><$01><txt_spd><$05>とってもおとなしい良<line>
+//い子になるようにね。<end>
+
+
+
+//POINTER #203 @ $201A6 - STRING #203 @ $216E6
+
+#W16($201A6)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$08>う<kuchipaku><$00>・・・・・。<wait><$04><line>
+//<kuchipaku><$01><txt_spd><$06>どこ<kuchipaku><$00>・・・?<end>
+
+
+
+//POINTER #204 @ $201A8 - STRING #204 @ $21708
+
+#W16($201A8)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>あの<kuchipaku><$00><txt_spd><$07>・・・。<wait><$02><end>
+
+
+
+//POINTER #205 @ $201AA - STRING #205 @ $2171E
+
+#W16($201AA)
+//<avatar><$00><kuchipaku><$01><txt_spd><$05>あなたは?<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #206 @ $201AC - STRING #206 @ $2172F
+
+#W16($201AC)
+//<avatar><$06><kuchipaku><$00><txt_spd><$07>・・・<kuchipaku><$01>ば<kuchipaku><$00><line>
+//・・・<kuchipaku><$01>ろうず。<kuchipaku><$00><wait><$04><end>
+
+
+
+//POINTER #207 @ $201AE - STRING #207 @ $2174F
+
+#W16($201AE)
+//<avatar><$00><kuchipaku><$00><txt_spd><$05>バロウズ・・・<line>
+//この人が・・・?<end>
+
+
+
+//POINTER #208 @ $201B0 - STRING #208 @ $21769
+
+#W16($201B0)
+//<txt_color><$00><avatar><$06><kuchipaku><$01><txt_spd><$02>ひひっ<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #209 @ $201B2 - STRING #209 @ $2177C
+
+#W16($201B2)
+//<avatar><$00><kuchipaku><$00>!?<wait><$04><end>
+
+
+
+//POINTER #210 @ $201B4 - STRING #210 @ $21785
+
+#W16($201B4)
+//<avatar><$06><kuchipaku><$01>今<kuchipaku><$00><txt_spd><$05>・・・<kuchipaku><$01><txt_spd><$03>ヤツがお前、<line>
+//<kuchipaku><$00><wait><$02><kuchipaku><$01><txt_spd><$02>見てる。<wait><$02><end>
+
+
+
+//POINTER #211 @ $201B6 - STRING #211 @ $217B0
+
+#W16($201B6)
+//<avatar><$00><kuchipaku><$01><txt_spd><$05>え?<kuchipaku><$00><wait><$06><end>
+
+
+
+//POINTER #212 @ $201B8 - STRING #212 @ $217BD
+
+#W16($201B8)
+//<avatar><$06><kuchipaku><$01><txt_spd><$05>星の下のゆりかごで<kuchipaku><$00><line>
+//・・・<kuchipaku><$01>お前を見てる。<kuchipaku><$00><wait><$04><end>
+
+
+
+//POINTER #213 @ $201BA - STRING #213 @ $217EC
+
+#W16($201BA)
+//<avatar><$00><kuchipaku><$01><txt_spd><$07>星の下の<kuchipaku><$00>・・・<line>
+//<kuchipaku><$01><txt_spd><$05>ゆりかご<kuchipaku><$00>・・・。<wait><$02><end>
+
+
+
+//POINTER #214 @ $201BC - STRING #214 @ $21814
+
+#W16($201BC)
+//<avatar><$06><kuchipaku><$01><txt_spd><$03>ひひっひっ<end>
+
+
+
+//POINTER #215 @ $201BE - STRING #215 @ $21825
+
+#W16($201BE)
+//<txt_color><$00><avatar><$06><kuchipaku><$02><txt_spd><$05>・・・・・。<wait><$02><end>
+
+
+
+//POINTER #216 @ $201C0 - STRING #216 @ $21836
+
+#W16($201C0)
+//<avatar><$06><kuchipaku><$00><txt_color><$01>もうジェニファーを<line>
+//見ていないようだ<end>
+
+
+
+//POINTER #217 @ $201C2 - STRING #217 @ $21854
+
+#W16($201C2)
+//<txt_color><$00><avatar><$00><kuchipaku><$00>小屋の外から声が<line>
+//聞こえる・・・<end>
+
+
+
+//POINTER #218 @ $201C4 - STRING #218 @ $21874
+
+#W16($201C4)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>長く使われていない<line>
+//のだろう<wait><$02><end>
+
+
+
+//POINTER #219 @ $201C6 - STRING #219 @ $21892
+
+#W16($201C6)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>水が黒くよどんでいる<end>
+
+
+
+//POINTER #220 @ $201C8 - STRING #220 @ $218AB
+
+#W16($201C8)
+//<txt_color><$00><avatar><$00><kuchipaku><$02>!<wait><$04><line>
+//<avatar><$00><kuchipaku><$01><txt_spd><$03>アンだわ!<end>
+
+
+
+//POINTER #221 @ $201CA - STRING #221 @ $218C3
+
+#W16($201CA)
+//<txt_color><$00><avatar><$04><kuchipaku><$01><txt_spd><$01>ジェニ<kuchipaku><$00><txt_spd><$03>・・・<kuchipaku><$01><txt_spd><$01>ファ<kuchipaku><$00><txt_spd><$05>・・<line>
+//<kuchipaku><$01><txt_spd><$01>助け<kuchipaku><$00><txt_spd><$03>・・・<kuchipaku><$01><txt_spd><$01>ゴブッ。<wait><$04><end>
+
+
+
+//POINTER #222 @ $201CC - STRING #222 @ $218FB
+
+#W16($201CC)
+//<avatar><$00><kuchipaku><$01><txt_spd><$03>アン!<wait><$03><end>
+
+
+
+//POINTER #223 @ $201CE - STRING #223 @ $21907
+
+#W16($201CE)
+//<avatar><$04><kuchipaku><$01><txt_spd><$05>た<kuchipaku><$00>・・・<kuchipaku><$01>す<kuchipaku><$00>・・・<line>
+//<kuchipaku><$01><txt_spd><$01>助け・・・。<wait><$03><end>
+
+
+
+//POINTER #224 @ $201D0 - STRING #224 @ $2192A
+
+#W16($201D0)
+//<kuchipaku><$01><txt_spd><$01>ゴブブッ<txt_spd><$03>・・・<line>
+//<txt_spd><$01>ゴバッ<wait><$02><end>
+
+
+
+//POINTER #225 @ $201D2 - STRING #225 @ $21940
+
+#W16($201D2)
+//<avatar><$00><kuchipaku><$01><txt_spd><$01>アン!<kuchipaku><$02> <wait><$04><kuchipaku><$01>アン!!<kuchipaku><$00><wait><$03><end>
+
+
+
+//POINTER #226 @ $201D4 - STRING #226 @ $21959
+
+#W16($201D4)
+//<avatar><$04><kuchipaku><$02>・・<txt_spd><$03>・・<txt_spd><$05>・。<end>
+
+
+
+//POINTER #227 @ $201D6 - STRING #227 @ $21968
+
+#W16($201D6)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ここは屋敷の中庭<line>
+//のようだ<end>
+
+
+
+//POINTER #228 @ $201D8 - STRING #228 @ $21985
+
+#W16($201D8)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>木やコンクリートの<line>
+//ガレキが積んである<end>
+
+
+
+//POINTER #229 @ $201DA - STRING #229 @ $219A7
+
+#W16($201DA)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>木やコンクリートの<line>
+//ガレキが積んである<wait><$02><end>
+
+
+
+//POINTER #230 @ $201DC - STRING #230 @ $219CB
+
+#W16($201DC)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>『とがった石』を<line>
+//ひろった<end>
+
+
+
+//POINTER #231 @ $201DE - STRING #231 @ $219E8
+
+#W16($201DE)
+//<avatar><$00><kuchipaku><$02><txt_color><$01>足をつかまれている!<line>
+//<end>
+
+
+
+//POINTER #232 @ $201E0 - STRING #232 @ $219FF
+
+#W16($201E0)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>木やコンクリートの<line>
+//ガレキが積んである<end>
+
+
+
+//POINTER #233 @ $201E2 - STRING #233 @ $21A21
+
+#W16($201E2)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>木やコンクリートの<line>
+//ガレキが積んである<wait><$02><end>
+
+
+
+//POINTER #234 @ $201E4 - STRING #234 @ $21A45
+
+#W16($201E4)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>『とがった石』をひろった<end>
+
+
+
+//POINTER #235 @ $201E6 - STRING #235 @ $21A61
+
+#W16($201E6)
+//<avatar><$00><kuchipaku><$00><txt_spd><$05>今何時なの<line>
+//かしら・・・。<end>
+
+
+
+//POINTER #236 @ $201E8 - STRING #236 @ $21A7A
+
+#W16($201E8)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>・・・・・!<wait><$06><end>
+
+
+
+//POINTER #237 @ $201EA - STRING #237 @ $21A89
+
+#W16($201EA)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>カラスの死体だ<wait><$02><end>
+
+
+
+//POINTER #238 @ $201EC - STRING #238 @ $21A9D
+
+#W16($201EC)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>よこに鍵が置いてある<wait><$02><end>
+
+
+
+//POINTER #239 @ $201EE - STRING #239 @ $21AB5
+
+#W16($201EE)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>『巣ばこの鍵』を<line>
+//ポケットに入れた<end>
+
+
+
+//POINTER #240 @ $201F0 - STRING #240 @ $21AD6
+
+#W16($201F0)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>つるされた<line>
+//カラスの死体だ<wait><$04><end>
+
+
+
+//POINTER #241 @ $201F2 - STRING #241 @ $21AF2
+
+#W16($201F2)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ことごとく首を<line>
+//切断されている<end>
+
+
+
+//POINTER #242 @ $201F4 - STRING #242 @ $21B0F
+
+#W16($201F4)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>カラスが1羽<line>
+//入れられている<end>
+
+
+
+//POINTER #243 @ $201F6 - STRING #243 @ $21B2B
+
+#W16($201F6)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ドブネズミが何匹か<line>
+//走りまわっている<end>
+
+
+
+//POINTER #244 @ $201F8 - STRING #244 @ $21B4D
+
+#W16($201F8)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>何も入っていない<line>
+//<end>
+
+
+
+//POINTER #245 @ $201FA - STRING #245 @ $21B61
+
+#W16($201FA)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>私も<kuchipaku><$00><txt_spd><$08>・・・<kuchipaku><$01><txt_spd><$03><line>
+//にげてみせるわ。<end>
+
+
+
+//POINTER #246 @ $201FC - STRING #246 @ $21B86
+
+#W16($201FC)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$08>あ<kuchipaku><$00>・・・<kuchipaku><$01>あ<kuchipaku><$00>・・・。<line>
+//<end>
+
+
+
+//POINTER #247 @ $201FE - STRING #247 @ $21B9F
+
+#W16($201FE)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>助けてくれたんだわ、<line>
+//<kuchipaku><$00><wait><$04><kuchipaku><$01>私を・・・。<end>
+
+
+
+//POINTER #248 @ $20200 - STRING #248 @ $21BC6
+
+#W16($20200)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ネズミは走り<line>
+//さっていった・・・。<end>
+
+
+
+//POINTER #249 @ $20202 - STRING #249 @ $21BE3
+
+#W16($20202)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ずいぶん古い<line>
+//雑誌のようだ<wait><$02><end>
+
+
+
+//POINTER #250 @ $20204 - STRING #250 @ $21C02
+
+#W16($20204)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>マタニティ・<line>
+//マガジン・・・?<end>
+
+
+
+//POINTER #251 @ $20206 - STRING #251 @ $21C1A
+
+#W16($20206)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>文学書が<line>
+//ならんでいる<end>
+
+
+
+//POINTER #252 @ $20208 - STRING #252 @ $21C34
+
+#W16($20208)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$0A>・・・?<wait><$02><end>
+
+
+
+//POINTER #253 @ $2020A - STRING #253 @ $21C43
+
+#W16($2020A)
+//<avatar><$00><kuchipaku><$00><txt_color><$01><txt_spd><$01>本に紙切れが<line>
+//はさまっている<wait><$02><end>
+
+
+
+//POINTER #254 @ $2020C - STRING #254 @ $21C65
+
+#W16($2020C)
+//『魔像は厳重に保管<line>
+//すること。』<wait><$02><end>
+
+
+
+//POINTER #255 @ $2020E - STRING #255 @ $21C82
+
+#W16($2020E)
+//『木は森の中に、<line>
+//人は人々の中に、<wait><$02><end>
+
+
+
+//POINTER #256 @ $20210 - STRING #256 @ $21CA2
+
+#W16($20210)
+//像は像達の中に』<end>
+
+
+
+//POINTER #257 @ $20212 - STRING #257 @ $21CB2
+
+#W16($20212)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>意味不明の記号が書か<line>
+//れている本ばかりだ<end>
+
+
+
+//POINTER #258 @ $20214 - STRING #258 @ $21CDC
+
+#W16($20214)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>様々な専門書が<line>
+//ならんでいる<end>
+
+
+
+//POINTER #259 @ $20216 - STRING #259 @ $21CFB
+
+#W16($20216)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>様々な専門書が<line>
+//ならんでいる<wait><$02><end>
+
+
+
+//POINTER #260 @ $20218 - STRING #260 @ $21D1C
+
+#W16($20218)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$0A>???<end>
+
+
+
+//POINTER #261 @ $2021A - STRING #261 @ $21D28
+
+#W16($2021A)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>裂け目の途中に何か<line>
+//光るものがある<wait><$02><end>
+
+
+
+//POINTER #262 @ $2021C - STRING #262 @ $21D4E
+
+#W16($2021C)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・鍵だわ。<wait><$02><end>
+
+
+
+//POINTER #263 @ $2021E - STRING #263 @ $21D63
+
+#W16($2021E)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>『銅色の鍵』を<line>
+//ポケットに入れた<end>
+
+
+
+//POINTER #264 @ $20220 - STRING #264 @ $21D85
+
+#W16($20220)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>もう何も無いようだ<line>
+//<end>
+
+
+
+//POINTER #265 @ $20222 - STRING #265 @ $21D9C
+
+#W16($20222)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ずいぶん深い<line>
+//亀裂のようだ<wait><$02><end>
+
+
+
+//POINTER #266 @ $20224 - STRING #266 @ $21DBB
+
+#W16($20224)
+//奥の方で何かが<line>
+//光っている<end>
+
+
+
+//POINTER #267 @ $20226 - STRING #267 @ $21DD2
+
+#W16($20226)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ずいぶん深い<line>
+//亀裂のようだ<wait><$02><end>
+
+
+
+//POINTER #268 @ $20228 - STRING #268 @ $21DF1
+
+#W16($20228)
+//奥は暗くてほとんど<line>
+//見えない<end>
+
+
+
+//POINTER #269 @ $2022A - STRING #269 @ $21E07
+
+#W16($2022A)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>何かが腕を<line>
+//つかんでいる!<wait><$02><end>
+
+
+
+//POINTER #270 @ $2022C - STRING #270 @ $21E24
+
+#W16($2022C)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>ぐっ<avatar><$00><kuchipaku><$00><txt_spd><$03>・・・<line>
+//<avatar><$07><kuchipaku><$00><txt_spd><$01>あ<avatar><$00><kuchipaku><$00><txt_spd><$03>・・・<avatar><$07><kuchipaku><$00><txt_spd><$01>あっ・・・。<end>
+
+
+
+//POINTER #271 @ $2022E - STRING #271 @ $21E56
+
+#W16($2022E)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>手紙が入っている<wait><$02><end>
+
+
+
+//POINTER #272 @ $20230 - STRING #272 @ $21E6D
+
+#W16($20230)
+//『サイモンより<line>
+//メアリーへ』<end>
+
+
+
+//POINTER #273 @ $20232 - STRING #273 @ $21E81
+
+#W16($20232)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・。<wait><$02><end>
+
+
+
+//POINTER #274 @ $20234 - STRING #274 @ $21E90
+
+#W16($20234)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>届かない・・・<end>
+
+
+
+//POINTER #275 @ $20236 - STRING #275 @ $21E9F
+
+#W16($20236)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$06>この部屋<kuchipaku><$00><txt_spd><$0A>・・・。<wait><$02><end>
+
+
+
+//POINTER #276 @ $20238 - STRING #276 @ $21EB9
+
+#W16($20238)
+//<avatar><$00><kuchipaku><$01><txt_spd><$05>さっきの壁画に<line>
+//そっくりだわ。<end>
+
+
+
+//POINTER #277 @ $2023A - STRING #277 @ $21ED7
+
+#W16($2023A)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>青磁器の壺が<line>
+//置いてある<end>
+
+
+
+//POINTER #278 @ $2023C - STRING #278 @ $21EF2
+
+#W16($2023C)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>カラスの死体だ<wait><$02><end>
+
+
+
+//POINTER #279 @ $2023E - STRING #279 @ $21F06
+
+#W16($2023E)
+//すべて首を切断<line>
+//されている・・・<end>
+
+
+
+//POINTER #280 @ $20240 - STRING #280 @ $21F1E
+
+#W16($20240)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>鉄製の円盤だ<wait><$02><end>
+
+
+
+//POINTER #281 @ $20242 - STRING #281 @ $21F33
+
+#W16($20242)
+//十字の切れこみが<line>
+//入っている<end>
+
+
+
+//POINTER #282 @ $20244 - STRING #282 @ $21F4C
+
+#W16($20244)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>底の方に穴が開いて<line>
+//いるのが見える<end>
+
+
+
+//POINTER #283 @ $20246 - STRING #283 @ $21F6F
+
+#W16($20246)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$07>・・・<kuchipaku><$01><txt_spd><$05>何の音?<line>
+//<end>
+
+
+
+//POINTER #284 @ $20248 - STRING #284 @ $21F87
+
+#W16($20248)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>不思議な記号や文字が<line>
+//書かれている<wait><$02><end>
+
+
+
+//POINTER #285 @ $2024A - STRING #285 @ $21FAD
+
+#W16($2024A)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$07>『時・・・を・・・<line>
+//固着させる』<txt_spd><$03>・・・?<wait><$02><end>
+
+
+
+//POINTER #286 @ $2024C - STRING #286 @ $21FD5
+
+#W16($2024C)
+//<avatar><$00><kuchipaku><$01><txt_spd><$05>どういう意味かしら。<end>
+
+
+
+//POINTER #287 @ $2024E - STRING #287 @ $21FEA
+
+#W16($2024E)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>よく見ると床に四角の<line>
+//溝がついている<wait><$02><end>
+
+
+
+//POINTER #288 @ $20250 - STRING #288 @ $2200F
+
+#W16($20250)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>『星の下のゆりかご』<line>
+//<kuchipaku><$00><txt_spd><$08>・・・。<wait><$04><end>
+
+
+
+//POINTER #289 @ $20252 - STRING #289 @ $22036
+
+#W16($20252)
+//<kuchipaku><$01><txt_spd><$05>この下に何かが<line>
+//あるんだわ。<end>
+
+
+
+//POINTER #290 @ $20254 - STRING #290 @ $22051
+
+#W16($20254)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>開いた穴がはるか<line>
+//下までつづいている<wait><$02><end>
+
+
+
+//POINTER #291 @ $20256 - STRING #291 @ $22076
+
+#W16($20256)
+//ハシゴで<line>
+//おりられそうだ<end>
+
+
+
+//POINTER #292 @ $20258 - STRING #292 @ $22088
+
+#W16($20258)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>十字の溝がぴったりと<line>
+//はまった!<wait><$02><end>
+
+
+
+//POINTER #293 @ $2025A - STRING #293 @ $220AC
+
+#W16($2025A)
+//<avatar><$00><kuchipaku><$00><txt_spd><$08>・・・<kuchipaku><$01><txt_spd><$05>何の音?<end>
+
+
+
+//POINTER #294 @ $2025C - STRING #294 @ $220C1
+
+#W16($2025C)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>水は出るようだ<line>
+//<end>
+
+
+
+//POINTER #295 @ $2025E - STRING #295 @ $220D6
+
+#W16($2025E)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・べつに<line>
+//したくないわ。<end>
+
+
+
+//POINTER #296 @ $20260 - STRING #296 @ $220EF
+
+#W16($20260)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$03>したくないってば。<line>
+//<end>
+
+
+
+//POINTER #297 @ $20262 - STRING #297 @ $22104
+
+#W16($20262)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>扉をロックした!<line>
+//<end>
+
+
+
+//POINTER #298 @ $20264 - STRING #298 @ $22116
+
+#W16($20264)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>シャワーは<line>
+//使えるようだ<end>
+
+
+
+//POINTER #299 @ $20266 - STRING #299 @ $2212E
+
+#W16($20266)
+//<txt_color><$00><avatar><$07><kuchipaku><$00><txt_spd><$01>っつ<kuchipaku><$00><txt_spd><$03>・・・!<line>
+//<end>
+
+
+
+//POINTER #300 @ $20268 - STRING #300 @ $22143
+
+#W16($20268)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>風が強くなってきた<line>
+//ようだ<end>
+
+
+
+//POINTER #301 @ $2026A - STRING #301 @ $2215D
+
+#W16($2026A)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$03>だめ、<line>
+//<kuchipaku><$00><wait><$02><txt_spd><$05><kuchipaku><$01>もう足が<kuchipaku><$00>・・・。<end>
+
+
+
+//POINTER #302 @ $2026C - STRING #302 @ $22181
+
+#W16($2026C)
+//<txt_color><$00><avatar><$00><kuchipaku><$01>うっ<kuchipaku><$00><txt_spd><$03>・・・<kuchipaku><$01>く<kuchipaku><$00><txt_spd><$05>・・・。<line>
+//<end>
+
+
+
+//POINTER #303 @ $2026E - STRING #303 @ $2219E
+
+#W16($2026E)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ガラクタが<line>
+//つまっている<end>
+
+
+
+//POINTER #304 @ $20270 - STRING #304 @ $221B5
+
+#W16($20270)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$08>・・・。<wait><$04><end>
+
+
+
+//POINTER #305 @ $20272 - STRING #305 @ $221C4
+
+#W16($20272)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>短剣がかすかに<line>
+//光っている<wait><$02><end>
+
+
+
+//POINTER #306 @ $20274 - STRING #306 @ $221E0
+
+#W16($20274)
+//『青銅の短剣』を<line>
+//手に入れた<end>
+
+
+
+//POINTER #307 @ $20276 - STRING #307 @ $221FA
+
+#W16($20276)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>・・・!<wait><$04><line>
+//<end>
+
+
+
+//POINTER #308 @ $20278 - STRING #308 @ $22208
+
+#W16($20278)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>食器が入っている<line>
+//<end>
+
+
+
+//POINTER #309 @ $2027A - STRING #309 @ $2221E
+
+#W16($2027A)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>高価な絵画がいくつも<line>
+//重ねられている<end>
+
+
+
+//POINTER #310 @ $2027C - STRING #310 @ $22242
+
+#W16($2027C)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ロープが置かれている<wait><$02><end>
+
+
+
+//POINTER #311 @ $2027E - STRING #311 @ $22259
+
+#W16($2027E)
+//ロープを手に入れた<end>
+
+
+
+//POINTER #312 @ $20280 - STRING #312 @ $22267
+
+#W16($20280)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>変だわ。<kuchipaku><$00><wait><$06><end>
+
+
+
+//POINTER #313 @ $20282 - STRING #313 @ $2227B
+
+#W16($20282)
+//<kuchipaku><$01><txt_spd><$05>あそこの壁だけ色が<line>
+//ちがってる<kuchipaku><$00>・・・。<end>
+
+
+
+//POINTER #314 @ $20284 - STRING #314 @ $2229D
+
+#W16($20284)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>どうやらあとから壁を<line>
+//ぬりなおしたようだ<wait><$02><end>
+
+
+
+//POINTER #315 @ $20286 - STRING #315 @ $222C4
+
+#W16($20286)
+//ひびが入って崩れそう<line>
+//になっている<end>
+
+
+
+//POINTER #316 @ $20288 - STRING #316 @ $222DF
+
+#W16($20288)
+//<txt_color><$00><avatar><$00><kuchipaku><$00>・・・!<wait><$04><end>
+
+
+
+//POINTER #317 @ $2028A - STRING #317 @ $222EC
+
+#W16($2028A)
+//<kuchipaku><$01><txt_spd><$05>むこうにも<line>
+//部屋があるわ。<end>
+
+
+
+//POINTER #318 @ $2028C - STRING #318 @ $22305
+
+#W16($2028C)
+//<txt_color><$00><avatar><$00><kuchipaku><$00>・・・!<wait><$04><end>
+
+
+
+//POINTER #319 @ $2028E - STRING #319 @ $22312
+
+#W16($2028E)
+//<kuchipaku><$01><txt_spd><$05>むこうにも<line>
+//部屋があるわ。<end>
+
+
+
+//POINTER #320 @ $20290 - STRING #320 @ $2232B
+
+#W16($20290)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>どれぐらい使われて<line>
+//いないのだろう<wait><$04><end>
+
+
+
+//POINTER #321 @ $20292 - STRING #321 @ $2234F
+
+#W16($20292)
+//部屋の空気が重く<line>
+//よどんでいる<end>
+
+
+
+//POINTER #322 @ $20294 - STRING #322 @ $2236B
+
+#W16($20294)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>日数を数えるため<line>
+//だろうか<wait><$02><end>
+
+
+
+//POINTER #323 @ $20296 - STRING #323 @ $22389
+
+#W16($20296)
+//壁にしるしが<line>
+//きざまれている<end>
+
+
+
+//POINTER #324 @ $20298 - STRING #324 @ $2239F
+
+#W16($20298)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>どうやらカルテの<line>
+//ようだ<wait><$02><end>
+
+
+
+//POINTER #325 @ $2029A - STRING #325 @ $223BA
+
+#W16($2029A)
+//『メアリー・バロウ<line>
+//ズ』と患者名がある<wait><$04><end>
+
+
+
+//POINTER #326 @ $2029C - STRING #326 @ $223D7
+
+#W16($2029C)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>この家の人ね。<wait><$02><end>
+
+
+
+//POINTER #327 @ $2029E - STRING #327 @ $223EE
+
+#W16($2029E)
+//<kuchipaku><$00><txt_spd><$0A>・・・・・。<wait><$02><end>
+
+
+
+//POINTER #328 @ $202A0 - STRING #328 @ $223FB
+
+#W16($202A0)
+//<kuchipaku><$01><txt_spd><$05>メアリー<kuchipaku><$00><txt_spd><$0A>・・・<line>
+//<kuchipaku><$01><txt_spd><$05>バロウズ<kuchipaku><$00><txt_spd><$0A>・・・。<end>
+
+
+
+//POINTER #329 @ $202A2 - STRING #329 @ $2241C
+
+#W16($202A2)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>カルテのようだ<wait><$02><end>
+
+
+
+//POINTER #330 @ $202A4 - STRING #330 @ $2242F
+
+#W16($202A4)
+//患者は2人の<line>
+//新生児らしい<end>
+
+
+
+//POINTER #331 @ $202A6 - STRING #331 @ $22446
+
+#W16($202A6)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>黒皮の診察カバンだ<wait><$02><end>
+
+
+
+//POINTER #332 @ $202A8 - STRING #332 @ $2245E
+
+#W16($202A8)
+//内側に名前がししゅう<line>
+//されている<wait><$02><end>
+
+
+
+//POINTER #333 @ $202AA - STRING #333 @ $22479
+
+#W16($202AA)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>『ウォルター・<line>
+//シンプソン』<kuchipaku><$00>・・・。<wait><$04><end>
+
+
+
+//POINTER #334 @ $202AC - STRING #334 @ $2249A
+
+#W16($202AC)
+//<kuchipaku><$01><txt_spd><$01>ウォルター<kuchipaku><$00><txt_spd><$03>・・・<line>
+//<kuchipaku><$01><txt_spd><$01>シンプソン!?<wait><$04><end>
+
+
+
+//POINTER #335 @ $202AE - STRING #335 @ $224B9
+
+#W16($202AE)
+//<kuchipaku><$02><txt_spd><$0A>・・・・・。<wait><$06><end>
+
+
+
+//POINTER #336 @ $202B0 - STRING #336 @ $224C6
+
+#W16($202B0)
+//<kuchipaku><$01><txt_spd><$01>パ<kuchipaku><$00>・・・<wait><$06><kuchipaku><$01><txt_spd><$0A>パ<kuchipaku><$00>・・<txt_spd><$0C>・。<end>
+
+
+
+//POINTER #337 @ $202B2 - STRING #337 @ $224E0
+
+#W16($202B2)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>白骨死体だ<wait><$02><end>
+
+
+
+//POINTER #338 @ $202B4 - STRING #338 @ $224F3
+
+#W16($202B4)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・・・。<end>
+
+
+
+//POINTER #339 @ $202B6 - STRING #339 @ $22502
+
+#W16($202B6)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>死体の手に紙切れが<line>
+//にぎられている<wait><$02><end>
+
+
+
+//POINTER #340 @ $202B8 - STRING #340 @ $22528
+
+#W16($202B8)
+//どうやらメモのようだ<wait><$02><end>
+
+
+
+//POINTER #341 @ $202BA - STRING #341 @ $2253B
+
+#W16($202BA)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>難しそうな本だ<wait><$02><end>
+
+
+
+//POINTER #342 @ $202BC - STRING #342 @ $2254E
+
+#W16($202BC)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$0A>???<end>
+
+
+
+//POINTER #343 @ $202BE - STRING #343 @ $2255A
+
+#W16($202BE)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・。<wait><$02><end>
+
+
+
+//POINTER #344 @ $202C0 - STRING #344 @ $22569
+
+#W16($202C0)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>文学書だ<end>
+
+
+
+//POINTER #345 @ $202C2 - STRING #345 @ $22578
+
+#W16($202C2)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>中年の女性が<line>
+//えがかれている<end>
+
+
+
+//POINTER #346 @ $202C4 - STRING #346 @ $22596
+
+#W16($202C4)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>女性が<line>
+//えがかれている<wait><$02><end>
+
+
+
+//POINTER #347 @ $202C6 - STRING #347 @ $225B0
+
+#W16($202C6)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>この人<kuchipaku><$00><txt_spd><$08>・・・<kuchipaku><$01><txt_spd><$05><line>
+//誰かににてる<kuchipaku><$00><txt_spd><$08>・・・。<end>
+
+
+
+//POINTER #348 @ $202C8 - STRING #348 @ $225DA
+
+#W16($202C8)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>誰がつけたのかしら。<line>
+//<end>
+
+
+
+//POINTER #349 @ $202CA - STRING #349 @ $225F2
+
+#W16($202CA)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ランタンが<line>
+//置かれている<wait><$02><end>
+
+
+
+//POINTER #350 @ $202CC - STRING #350 @ $2260B
+
+#W16($202CC)
+//『ランタン』を<line>
+//手に入れた<end>
+
+
+
+//POINTER #351 @ $202CE - STRING #351 @ $2261F
+
+#W16($202CE)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>窓の下に中庭の<line>
+//プールが見えている<end>
+
+
+
+//POINTER #352 @ $202D0 - STRING #352 @ $22640
+
+#W16($202D0)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・<kuchipaku><$01>ここから<line>
+//アンが<kuchipaku><$00>・・・。<end>
+
+
+
+//POINTER #353 @ $202D2 - STRING #353 @ $2265E
+
+#W16($202D2)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>机の上にはほこりが<line>
+//積もっている<end>
+
+
+
+//POINTER #354 @ $202D4 - STRING #354 @ $22680
+
+#W16($202D4)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>机の上に赤いしみが<line>
+//散っている<end>
+
+
+
+//POINTER #355 @ $202D6 - STRING #355 @ $2269F
+
+#W16($202D6)
+//<avatar><$00><kuchipaku><$00>!?<wait><$02><end>
+
+
+
+//POINTER #356 @ $202D8 - STRING #356 @ $226A8
+
+#W16($202D8)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>扉が開かない!<end>
+
+
+
+//POINTER #357 @ $202DA - STRING #357 @ $226B9
+
+#W16($202DA)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・<txt_spd><$08>・・<txt_spd><$0A>・。<wait><$02><end>
+
+
+
+//POINTER #358 @ $202DC - STRING #358 @ $226CE
+
+#W16($202DC)
+//<avatar><$00><kuchipaku><$00><txt_spd><$05><txt_color><$01>誰かに見られている<line>
+//ような気がする<end>
+
+
+
+//POINTER #359 @ $202DE - STRING #359 @ $226F1
+
+#W16($202DE)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>フランス人形だ<wait><$02><end>
+
+
+
+//POINTER #360 @ $202E0 - STRING #360 @ $22704
+
+#W16($202E0)
+//天井から<line>
+//つるされている・・・<end>
+
+
+
+//POINTER #361 @ $202E2 - STRING #361 @ $2271A
+
+#W16($202E2)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>大きなピエロ人形だ<line>
+//<end>
+
+
+
+//POINTER #362 @ $202E4 - STRING #362 @ $2272F
+
+#W16($202E4)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>上に鍵がのっている<wait><$02><end>
+
+
+
+//POINTER #363 @ $202E6 - STRING #363 @ $22747
+
+#W16($202E6)
+//『儀式の鍵』を<line>
+//ポケットに入れた。<end>
+
+
+
+//POINTER #364 @ $202E8 - STRING #364 @ $22762
+
+#W16($202E8)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>レコードプレーヤーだ<wait><$02><end>
+
+
+
+//POINTER #365 @ $202EA - STRING #365 @ $22776
+
+#W16($202EA)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>壊れているようね。<end>
+
+
+
+//POINTER #366 @ $202EC - STRING #366 @ $2278D
+
+#W16($202EC)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$03>あ、開かない!?<line>
+//<end>
+
+
+
+//POINTER #367 @ $202EE - STRING #367 @ $227A0
+
+#W16($202EE)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>子供用のベッドの<line>
+//ようだ<wait><$02><end>
+
+
+
+//POINTER #368 @ $202F0 - STRING #368 @ $227BC
+
+#W16($202F0)
+//しみやほこりで<line>
+//よごれきっている<end>
+
+
+
+//POINTER #369 @ $202F2 - STRING #369 @ $227D7
+
+#W16($202F2)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・?<wait><$02><end>
+
+
+
+//POINTER #370 @ $202F4 - STRING #370 @ $227E6
+
+#W16($202F4)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>金属の杖が壺に<line>
+//ささっている<wait><$02><end>
+
+
+
+//POINTER #371 @ $202F6 - STRING #371 @ $22807
+
+#W16($202F6)
+//『杖』を手に入れた<end>
+
+
+
+//POINTER #372 @ $202F8 - STRING #372 @ $22818
+
+#W16($202F8)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>青磁器の大きな壺だ<line>
+//<end>
+
+
+
+//POINTER #373 @ $202FA - STRING #373 @ $22830
+
+#W16($202FA)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>中はガラクタしか<line>
+//入っていない<end>
+
+
+
+//POINTER #374 @ $202FC - STRING #374 @ $2284A
+
+#W16($202FC)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>どうやら外れた<line>
+//天井板のようだ<end>
+
+
+
+//POINTER #375 @ $202FE - STRING #375 @ $2286B
+
+#W16($202FE)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>レコードプレーヤーだ<wait><$02><end>
+
+
+
+//POINTER #376 @ $20300 - STRING #376 @ $2287F
+
+#W16($20300)
+//<avatar><$00><kuchipaku><$01><txt_color><$00>コンセントが<line>
+//入っていないわ。<end>
+
+
+
+//POINTER #377 @ $20302 - STRING #377 @ $22899
+
+#W16($20302)
+//<txt_color><$00><avatar><$00><kuchipaku><$00>・・・<kuchipaku><$01>く・ぐ<kuchipaku><$00>・・・。<wait><$02><end>
+
+
+
+//POINTER #378 @ $20304 - STRING #378 @ $228B1
+
+#W16($20304)
+//<avatar><$00><kuchipaku><$01>耳が<kuchipaku><$00><txt_spd><$03>・・・<kuchipaku><$01><txt_spd><$01>い、痛っ。<end>
+
+
+
+//POINTER #379 @ $20306 - STRING #379 @ $228CC
+
+#W16($20306)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>中にいくつもの<line>
+//楽譜が入っている<end>
+
+
+
+//POINTER #380 @ $20308 - STRING #380 @ $228EC
+
+#W16($20308)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>マネキンにドレスが<line>
+//着せられている<wait><$02><end>
+
+
+
+//POINTER #381 @ $2030A - STRING #381 @ $2290B
+
+#W16($2030A)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>すてき・・・。<end>
+
+
+
+//POINTER #382 @ $2030C - STRING #382 @ $2291B
+
+#W16($2030C)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>マネキンにドレスが<line>
+//着せられている<end>
+
+
+
+//POINTER #383 @ $2030E - STRING #383 @ $22938
+
+#W16($2030E)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>何かいる・・・。<wait><$02><line>
+//<end>
+
+
+
+//POINTER #384 @ $20310 - STRING #384 @ $2294C
+
+#W16($20310)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>犬のうなり声のようだ<end>
+
+
+
+//POINTER #385 @ $20312 - STRING #385 @ $22964
+
+#W16($20312)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ジェニファーの良く<line>
+//知っているにおい<wait><$04><end>
+
+
+
+//POINTER #386 @ $20314 - STRING #386 @ $22984
+
+#W16($20314)
+//メアリーの香水の<line>
+//においがする<end>
+
+
+
+//POINTER #387 @ $20316 - STRING #387 @ $2299A
+
+#W16($20316)
+//<avatar><$07><kuchipaku><$00><txt_color><$00>・・・!!<end>
+
+
+
+//POINTER #388 @ $20318 - STRING #388 @ $229A6
+
+#W16($20318)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$03>ロッテ。<kuchipaku><$02><wait><$02><kuchipaku><$01><txt_spd><$01>ロッテ!<wait><$04><end>
+
+
+
+//POINTER #389 @ $2031A - STRING #389 @ $229C1
+
+#W16($2031A)
+//<avatar><$05><kuchipaku><$01><txt_spd><$08>う<kuchipaku><$00>・・・。<end>
+
+
+
+//POINTER #390 @ $2031C - STRING #390 @ $229CF
+
+#W16($2031C)
+//<avatar><$00><kuchipaku><$01><txt_spd><$03>ロッテ、<line>
+//<kuchipaku><$00><wait><$02><kuchipaku><$01><txt_spd><$01>生きてるのね!!<wait><$02><end>
+
+
+
+//POINTER #391 @ $2031E - STRING #391 @ $229F1
+
+#W16($2031E)
+//<avatar><$05><kuchipaku><$01><txt_spd><$05>ああ<kuchipaku><$00><txt_spd><$08>・・・。<line>
+//<kuchipaku><$01><txt_spd><$05>ジェニファー<kuchipaku><$00>・・・。<wait><$04><end>
+
+
+
+//POINTER #392 @ $20320 - STRING #392 @ $22A15
+
+#W16($20320)
+//<kuchipaku><$01>時計塔<wait><$02>へ<kuchipaku><$00>・・・<line>
+//<kuchipaku><$01><txt_spd><$03>スイッチを<kuchipaku><$02>・・・。<wait><$02><end>
+
+
+
+//POINTER #393 @ $20322 - STRING #393 @ $22A3A
+
+#W16($20322)
+//<kuchipaku><$00><txt_spd><$05>・・<kuchipaku><$02><txt_spd><$08>・・<txt_spd><$0A>・。<wait><$08><end>
+
+
+
+//POINTER #394 @ $20324 - STRING #394 @ $22A4D
+
+#W16($20324)
+//<avatar><$00><kuchipaku><$01><txt_spd><$05>ロッテ?<kuchipaku><$02><wait><$04><end>
+
+
+
+//POINTER #395 @ $20326 - STRING #395 @ $22A5C
+
+#W16($20326)
+//<avatar><$00><kuchipaku><$01><txt_spd><$05>1人に<kuchipaku><$00><txt_spd><$08>・・・<line>
+//<kuchipaku><$01><txt_spd><$05>しないで<kuchipaku><$00>・・・。<wait><$02><end>
+
+
+
+//POINTER #396 @ $20328 - STRING #396 @ $22A80
+
+#W16($20328)
+//・・・・・。<end>
+
+
+
+//POINTER #397 @ $2032A - STRING #397 @ $22A87
+
+#W16($2032A)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ローブと香水は<line>
+//もうすててしまった<wait><$03><end>
+
+
+
+//POINTER #398 @ $2032C - STRING #398 @ $22AA7
+
+#W16($2032C)
+//犬の前をとおるのは<line>
+//きけんだ・・・。<end>
+
+
+
+//POINTER #399 @ $2032E - STRING #399 @ $22AC3
+
+#W16($2032E)
+//<avatar><$00><kuchipaku><$01><txt_color><$00><txt_spd><$05>これだけで犬を<line>
+//ごまかせるかしら。<end>
+
+
+
+//POINTER #400 @ $20330 - STRING #400 @ $22AE6
+
+#W16($20330)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ランタンが置いてある<end>
+
+
+
+//POINTER #401 @ $20332 - STRING #401 @ $22AFA
+
+#W16($20332)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>エレベーター電源と<line>
+//記されている<wait><$02><end>
+
+
+
+//POINTER #402 @ $20334 - STRING #402 @ $22B18
+
+#W16($20334)
+//電源をONにした<end>
+
+
+
+//POINTER #403 @ $20336 - STRING #403 @ $22B24
+
+#W16($20336)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>缶が置かれている<wait><$02><end>
+
+
+
+//POINTER #404 @ $20338 - STRING #404 @ $22B3A
+
+#W16($20338)
+//中は灯油のようだ<end>
+
+
+
+//POINTER #405 @ $2033A - STRING #405 @ $22B4A
+
+#W16($2033A)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$01>・・・<kuchipaku><$01>あっ<line>
+//<kuchipaku><$00><txt_spd><$03>・・・<kuchipaku><$01><txt_spd><$01>く<kuchipaku><$00>・・・。<end>
+
+
+
+//POINTER #406 @ $2033C - STRING #406 @ $22B6E
+
+#W16($2033C)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$03>あ<kuchipaku><$00>・・・<kuchipaku><$01><txt_spd><$05>あ<kuchipaku><$00>・・<txt_spd><$08>・。<line>
+//<end>
+
+
+
+//POINTER #407 @ $2033E - STRING #407 @ $22B8B
+
+#W16($2033E)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>エレベーターのランプ<line>
+//が点灯している<end>
+
+
+
+//POINTER #408 @ $20340 - STRING #408 @ $22BA9
+
+#W16($20340)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>エレベーターだ<wait><$02><end>
+
+
+
+//POINTER #409 @ $20342 - STRING #409 @ $22BBA
+
+#W16($20342)
+//<avatar><$00><kuchipaku><$01><txt_spd><$05>動いていないみたい。<end>
+
+
+
+//POINTER #410 @ $20344 - STRING #410 @ $22BCD
+
+#W16($20344)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>あ・・・っ。<end>
+
+
+
+//POINTER #411 @ $20346 - STRING #411 @ $22BDB
+
+#W16($20346)
+//<avatar><$02><kuchipaku><$01><txt_spd><$08>そうら、捕まえた。<wait><$02><end>
+
+
+
+//POINTER #412 @ $20348 - STRING #412 @ $22BF0
+
+#W16($20348)
+//<avatar><$02><kuchipaku><$01><txt_spd><$01>オニゴッコは<line>
+//おしまいだよ!<end>
+
+
+
+//POINTER #413 @ $2034A - STRING #413 @ $22C09
+
+#W16($2034A)
+//<txt_color><$00><avatar><$02><kuchipaku><$01>くっ<kuchipaku><$00><txt_spd><$03>・・・く。<wait><$04><end>
+
+
+
+//POINTER #414 @ $2034C - STRING #414 @ $22C1E
+
+#W16($2034C)
+//<kuchipaku><$01><txt_spd><$02>何をするんだい、<line>
+//このクソガラスども!!<end>
+
+
+
+//POINTER #415 @ $2034E - STRING #415 @ $22C3F
+
+#W16($2034E)
+//<txt_color><$00><avatar><$02><kuchipaku><$01>ひ<kuchipaku><$00>・・・っ!<wait><$02><line>
+//<end>
+
+
+
+//POINTER #416 @ $20350 - STRING #416 @ $22C53
+
+#W16($20350)
+//<txt_color><$00><avatar><$02><kuchipaku><$01><txt_spd><$01>この子娘!!<kuchipaku><$02><wait><$02><line>
+//<kuchipaku><$01><txt_spd><$05>お前だけは・・・<wait><$02><end>
+
+
+
+//POINTER #417 @ $20352 - STRING #417 @ $22C7B
+
+#W16($20352)
+//<kuchipaku><$01><txt_spd><$01>お前だけはぜったいに<line>
+//殺してやる!!<end>
+
+
+
+//POINTER #418 @ $20354 - STRING #418 @ $22C9A
+
+#W16($20354)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$03>ローラ!<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #419 @ $20356 - STRING #419 @ $22CAB
+
+#W16($20356)
+//<avatar><$03><kuchipaku><$01><txt_spd><$05>ジェニファー!<end>
+
+
+
+//POINTER #420 @ $20358 - STRING #420 @ $22CB9
+
+#W16($20358)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$03>アン!<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #421 @ $2035A - STRING #421 @ $22CC9
+
+#W16($2035A)
+//<avatar><$04><kuchipaku><$01><txt_spd><$01>ジェニファー!<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #422 @ $2035C - STRING #422 @ $22CDB
+
+#W16($2035C)
+//<txt_color><$00><avatar><$02><kuchipaku><$01><txt_spd><$07>ジェニファー。<wait><$02><end>
+
+
+
+//POINTER #423 @ $2035E - STRING #423 @ $22CED
+
+#W16($2035E)
+//<kuchipaku><$01><txt_spd><$05>お前だけは<kuchipaku><$00><txt_spd><$08>・・・<line>
+//<kuchipaku><$01><txt_spd><$05>お前だけは<kuchipaku><$00>・・・。<wait><$02><end>
+
+
+
+//POINTER #424 @ $20360 - STRING #424 @ $22D16
+
+#W16($20360)
+//<kuchipaku><$01><txt_spd><$03>さあ、<txt_spd><$01>覚悟おしっ。<end>
+
+
+
+//POINTER #425 @ $20362 - STRING #425 @ $22D29
+
+#W16($20362)
+//<txt_color><$00><avatar><$02><kuchipaku><$01>くっ<kuchipaku><$00><txt_spd><$03>・・・く。<wait><$02><end>
+
+
+
+//POINTER #426 @ $20364 - STRING #426 @ $22D3E
+
+#W16($20364)
+//<kuchipaku><$01><txt_spd><$03>何をするんだい、<line>
+//<kuchipaku><$00><wait><$02><kuchipaku><$01>このクソガラスども!!<kuchipaku><$00><wait><$06><end>
+
+
+
+//POINTER #427 @ $20366 - STRING #427 @ $22D69
+
+#W16($20366)
+//<kuchipaku><$01><txt_spd><$01>ぐあ!<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #428 @ $20368 - STRING #428 @ $22D76
+
+#W16($20368)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>ローラ!<wait><$02><end>
+
+
+
+//POINTER #429 @ $2036A - STRING #429 @ $22D83
+
+#W16($2036A)
+//<avatar><$02><kuchipaku><$01><txt_spd><$03>この小娘がっ、<kuchipaku><$00><wait><$02><kuchipaku><$01>よくも<line>
+//私のぼうや達を!<end>
+
+
+
+//POINTER #430 @ $2036C - STRING #430 @ $22DB0
+
+#W16($2036C)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>アン!<wait><$02><end>
+
+
+
+//POINTER #431 @ $2036E - STRING #431 @ $22DBC
+
+#W16($2036E)
+//<avatar><$02><kuchipaku><$01><txt_spd><$03>この小娘がっ、<kuchipaku><$00><wait><$02><kuchipaku><$01>よくも<line>
+//私のぼうや達を!<end>
+
+
+
+//POINTER #432 @ $20370 - STRING #432 @ $22DE9
+
+#W16($20370)
+//<txt_color><$00><avatar><$02><kuchipaku><$01>くっ<kuchipaku><$00><txt_spd><$03>・・・<kuchipaku><$01><txt_spd><$01>な<kuchipaku><$02>・・・。<wait><$02><end>
+
+
+
+//POINTER #433 @ $20372 - STRING #433 @ $22E07
+
+#W16($20372)
+//<kuchipaku><$01><txt_spd><$03>クソガラスども、<kuchipaku><$00><wait><$02><kuchipaku><$01>じゃ<line>
+//まをおしじゃないよ!!<kuchipaku><$00><wait><$06><end>
+
+
+
+//POINTER #434 @ $20374 - STRING #434 @ $22E35
+
+#W16($20374)
+//<kuchipaku><$01><txt_spd><$01>ひ!<kuchipaku><$02><wait><$02><end>
+
+
+
+//POINTER #435 @ $20376 - STRING #435 @ $22E41
+
+#W16($20376)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>ローラ。<kuchipaku><$00><wait><$04><end>
+
+
+
+//POINTER #436 @ $20378 - STRING #436 @ $22E52
+
+#W16($20378)
+//<avatar><$03><kuchipaku><$01>ん<kuchipaku><$00><txt_spd><$08>・・・。<end>
+
+
+
+//POINTER #437 @ $2037A - STRING #437 @ $22E61
+
+#W16($2037A)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>アン。<kuchipaku><$00><wait><$04><end>
+
+
+
+//POINTER #438 @ $2037C - STRING #438 @ $22E71
+
+#W16($2037C)
+//<avatar><$04><kuchipaku><$01>う<kuchipaku><$00><txt_spd><$08>・・・。<end>
+
+
+
+//POINTER #439 @ $2037E - STRING #439 @ $22E7F
+
+#W16($2037E)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$08>あ<kuchipaku><$00>・・・<kuchipaku><$01><txt_spd><$03>ああ。<kuchipaku><$00><wait><$06><end>
+
+
+
+//POINTER #440 @ $20380 - STRING #440 @ $22E99
+
+#W16($20380)
+//<kuchipaku><$01><txt_spd><$05>ローラ<kuchipaku><$00><txt_spd><$08>・・・。<end>
+
+
+
+//POINTER #441 @ $20382 - STRING #441 @ $22EA9
+
+#W16($20382)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>メアリー先生<kuchipaku><$00><txt_spd><$08>・・・。<wait><$04><end>
+
+
+
+//POINTER #442 @ $20384 - STRING #442 @ $22EC4
+
+#W16($20384)
+//<avatar><$01><kuchipaku><$01><txt_spd><$07>無事だったのね、<line>
+//ジェニファー。<wait><$02><end>
+
+
+
+//POINTER #443 @ $20386 - STRING #443 @ $22EE3
+
+#W16($20386)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>先生<kuchipaku><$00>・・・<kuchipaku><$01><txt_spd><$03>みんなが<kuchipaku><$00><txt_spd><$05>・<line>
+//・・<kuchipaku><$01><txt_spd><$02>みんなが<kuchipaku><$00>・・・。<line>
+//<end>
+
+
+
+//POINTER #444 @ $20388 - STRING #444 @ $22F1A
+
+#W16($20388)
+//<avatar><$01><kuchipaku><$01><txt_spd><$05>大丈夫<kuchipaku><$00>・・・<kuchipaku><$01><txt_spd><$05>大丈夫よ<line>
+//ジェニファー。<wait><$02><end>
+
+
+
+//POINTER #445 @ $2038A - STRING #445 @ $22F42
+
+#W16($2038A)
+//<txt_color><$00><avatar><$01><kuchipaku><$01><txt_spd><$07>さあ、<kuchipaku><$00><wait><$02><kuchipaku><$01><txt_spd><$05>これを飲んで。<kuchipaku><$00><wait><$02><line>
+//<kuchipaku><$01><txt_spd><$07>箔ち着くわ<kuchipaku><$00>・・・。<end>
+
+
+
+//POINTER #446 @ $2038C - STRING #446 @ $22F79
+
+#W16($2038C)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$03>メアリー<kuchipaku><$00><txt_spd><$05>・・・<line>
+//<kuchipaku><$01>先生<kuchipaku><$00><txt_spd><$08>・・・。<wait><$02><end>
+
+
+
+//POINTER #447 @ $2038E - STRING #447 @ $22F9E
+
+#W16($2038E)
+//<avatar><$01><kuchipaku><$01><txt_spd><$07>無事だったのね、<line>
+//ジェニファー。<kuchipaku><$00><wait><$08><end>
+
+
+
+//POINTER #448 @ $20390 - STRING #448 @ $22FBF
+
+#W16($20390)
+//<kuchipaku><$01><txt_spd><$05>どうしたの?<kuchipaku><$00><wait><$02><end>
+
+
+
+//POINTER #449 @ $20392 - STRING #449 @ $22FD0
+
+#W16($20392)
+//<kuchipaku><$01>こっちへ<line>
+//いらっしゃい。<end>
+
+
+
+//POINTER #450 @ $20394 - STRING #450 @ $22FE4
+
+#W16($20394)
+//<txt_color><$00><avatar><$07><kuchipaku><$00><txt_spd><$02>ぐくっ<kuchipaku><$02><txt_spd><$05>・・・<kuchipaku><$01><txt_spd><$01>くぅっ。<kuchipaku><$00><wait><$02><line>
+//<end>
+
+
+
+//POINTER #451 @ $20396 - STRING #451 @ $23008
+
+#W16($20396)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>洋服ダンスのようだ<wait><$02><end>
+
+
+
+//POINTER #452 @ $20398 - STRING #452 @ $2301F
+
+#W16($20398)
+//中には女性服が<line>
+//いくつか入っている<wait><$02><end>
+
+
+
+//POINTER #453 @ $2039A - STRING #453 @ $2303C
+
+#W16($2039A)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・。<wait><$02><line>
+//変わった服・・・。<wait><$02><end>
+
+
+
+//POINTER #454 @ $2039C - STRING #454 @ $2305B
+
+#W16($2039C)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>『黒いローブ』を<line>
+//手に入れた<end>
+
+
+
+//POINTER #455 @ $2039E - STRING #455 @ $23079
+
+#W16($2039E)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>グラスはつい最近<line>
+//使われたようだ<wait><$04><end>
+
+
+
+//POINTER #456 @ $203A0 - STRING #456 @ $2309A
+
+#W16($203A0)
+//底にまだ液体が<line>
+//残っている<wait><$02><end>
+
+
+
+//POINTER #457 @ $203A2 - STRING #457 @ $230B3
+
+#W16($203A2)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$03>あ<kuchipaku><$00>・・・<wait><$02>。<line>
+//<end>
+
+
+
+//POINTER #458 @ $203A4 - STRING #458 @ $230C6
+
+#W16($203A4)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>銀色の鍵がグラスの<line>
+//下敷きになっている。<wait><$03><end>
+
+
+
+//POINTER #459 @ $203A6 - STRING #459 @ $230ED
+
+#W16($203A6)
+//『銀色の鍵』を<line>
+//ポケットに入れた<end>
+
+
+
+//POINTER #460 @ $203A8 - STRING #460 @ $23107
+
+#W16($203A8)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>様々な飲み物のビンが<line>
+//ならべられている<end>
+
+
+
+//POINTER #461 @ $203AA - STRING #461 @ $2312D
+
+#W16($203AA)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>豪華なソファーが<line>
+//置かれている<end>
+
+
+
+//POINTER #462 @ $203AC - STRING #462 @ $23149
+
+#W16($203AC)
+//<txt_color><$00><avatar><$00><kuchipaku><$02><txt_spd><$03>・・・!<wait><$02><end>
+
+
+
+//POINTER #463 @ $203AE - STRING #463 @ $23158
+
+#W16($203AE)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>電話腺が<line>
+//切断されている<end>
+
+
+
+//POINTER #464 @ $203B0 - STRING #464 @ $23173
+
+#W16($203B0)
+//<txt_color><$00><txt_spd><$05><avatar><$00><kuchipaku><$01>う<kuchipaku><$00>・・・・・?<wait><$06><end>
+
+
+
+//POINTER #465 @ $203B2 - STRING #465 @ $23187
+
+#W16($203B2)
+//<avatar><$01><kuchipaku><$02><txt_spd><$05>・・・・・。<end>
+
+
+
+//POINTER #466 @ $203B4 - STRING #466 @ $23194
+
+#W16($203B4)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・<txt_spd><$08>???<wait><$02><end>
+
+
+
+//POINTER #467 @ $203B6 - STRING #467 @ $231A7
+
+#W16($203B6)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>本のページには化学<line>
+//記号がならんでいる<wait><$02><end>
+
+
+
+//POINTER #468 @ $203B8 - STRING #468 @ $231D1
+
+#W16($203B8)
+//少しも<line>
+//理解できない・・・<end>
+
+
+
+//POINTER #469 @ $203BA - STRING #469 @ $231E4
+
+#W16($203BA)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>安っぽい魔術書が<line>
+//ならんでいる<wait><$02><end>
+
+
+
+//POINTER #470 @ $203BC - STRING #470 @ $23207
+
+#W16($203BC)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>一面に壁画が<line>
+//かかれているようだ<wait><$02><end>
+
+
+
+//POINTER #471 @ $203BE - STRING #471 @ $23229
+
+#W16($203BE)
+//たなに隠れて全体は<line>
+//見えない・・・<end>
+
+
+
+//POINTER #472 @ $203C0 - STRING #472 @ $23241
+
+#W16($203C0)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>儀式の行われている<line>
+//部屋がえがかれている<wait><$02><end>
+
+
+
+//POINTER #473 @ $203C2 - STRING #473 @ $2326B
+
+#W16($203C2)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>これ、<kuchipaku><$00><wait><$02><kuchipaku><$01>この屋敷の<line>
+//中かしら<kuchipaku><$00>・・・。<end>
+
+
+
+//POINTER #474 @ $203C4 - STRING #474 @ $23294
+
+#W16($203C4)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>儀式の行われている<line>
+//部屋がえがかれている<wait><$02><end>
+
+
+
+//POINTER #475 @ $203C6 - STRING #475 @ $232BE
+
+#W16($203C6)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>どこかで見たような<line>
+//部屋だ<end>
+
+
+
+//POINTER #476 @ $203C8 - STRING #476 @ $232D9
+
+#W16($203C8)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>机の上には様々な薬品<line>
+//がのっている<end>
+
+
+
+//POINTER #477 @ $203CA - STRING #477 @ $232FD
+
+#W16($203CA)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>魔術書にまじって<line>
+//ノートが置いてある<wait><$02><end>
+
+
+
+//POINTER #478 @ $203CC - STRING #478 @ $23321
+
+#W16($203CC)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>『時を<txt_spd><$08>・・・<txt_spd><$03>固着<line>
+//させる』・・・?<wait><$02><end>
+
+
+
+//POINTER #479 @ $203CE - STRING #479 @ $23348
+
+#W16($203CE)
+//<kuchipaku><$00><txt_spd><$05>『時計塔の大時計を<line>
+//停止させる<txt_spd><$08>・・・。』<wait><$02><end>
+
+
+
+//POINTER #480 @ $203D0 - STRING #480 @ $23372
+
+#W16($203D0)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・?<wait><$02><end>
+
+
+
+//POINTER #481 @ $203D2 - STRING #481 @ $23381
+
+#W16($203D2)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>本に紙切れが<line>
+//はさまっている<wait><$02><end>
+
+
+
+//POINTER #482 @ $203D4 - STRING #482 @ $233A3
+
+#W16($203D4)
+//<txt_spd><$03>『魔像は厳重に保管<line>
+//すること。』<wait><$02><end>
+
+
+
+//POINTER #483 @ $203D6 - STRING #483 @ $233C2
+
+#W16($203D6)
+//『木は森の中に、<line>
+//<wait><$02>人は人々の中に、<wait><$02><end>
+
+
+
+//POINTER #484 @ $203D8 - STRING #484 @ $233E4
+
+#W16($203D8)
+//像は像達の中に』<wait><$04><end>
+
+
+
+//POINTER #485 @ $203DA - STRING #485 @ $233F6
+
+#W16($203DA)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>魔術書にまじって<line>
+//ノートが置いてある<wait><$02><end>
+
+
+
+//POINTER #486 @ $203DC - STRING #486 @ $2341A
+
+#W16($203DC)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>『時を<txt_spd><$08>・・・<txt_spd><$03>固着<line>
+//させる』・・・?<wait><$02><end>
+
+
+
+//POINTER #487 @ $203DE - STRING #487 @ $23441
+
+#W16($203DE)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>鳥の巣のようだ<line>
+//<end>
+
+
+
+//POINTER #488 @ $203E0 - STRING #488 @ $23456
+
+#W16($203E0)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>何も入っていない<line>
+//<end>
+
+
+
+//POINTER #489 @ $203E2 - STRING #489 @ $2346A
+
+#W16($203E2)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>何これ<kuchipaku><$00>・・・。<wait><$02><end>
+
+
+
+//POINTER #490 @ $203E4 - STRING #490 @ $23480
+
+#W16($203E4)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>巣の中は卵とガラクタ<line>
+//でいっぱいだ<wait><$02><end>
+
+
+
+//POINTER #491 @ $203E6 - STRING #491 @ $234A5
+
+#W16($203E6)
+//<kuchipaku><$01><txt_spd><$05>鍵が入ってる<kuchipaku><$00>・・・。<wait><$02><end>
+
+
+
+//POINTER #492 @ $203E8 - STRING #492 @ $234BD
+
+#W16($203E8)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>ガラクタの中から<line>
+//鍵を見つけた<wait><$02><end>
+
+
+
+//POINTER #493 @ $203EA - STRING #493 @ $234DD
+
+#W16($203EA)
+//『西館の鍵』を<line>
+//ポケットに入れた。<wait><$02><end>
+
+
+
+//POINTER #494 @ $203EC - STRING #494 @ $234FA
+
+#W16($203EC)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>何これ<kuchipaku><$00>・・・。<wait><$02><end>
+
+
+
+//POINTER #495 @ $203EE - STRING #495 @ $23510
+
+#W16($203EE)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>巣の中は卵とガラクタ<line>
+//でいっぱいだ<end>
+
+
+
+//POINTER #496 @ $203F0 - STRING #496 @ $23533
+
+#W16($203F0)
+//<txt_color><$00><avatar><$00><kuchipaku><$01>あ<kuchipaku><$00>・・・!<wait><$04><end>
+
+
+
+//POINTER #497 @ $203F2 - STRING #497 @ $23543
+
+#W16($203F2)
+//<kuchipaku><$01><txt_spd><$05>卵が<kuchipaku><$00>・・・。<end>
+
+
+
+//POINTER #498 @ $203F4 - STRING #498 @ $23552
+
+#W16($203F4)
+//<txt_color><$00><avatar><$00><kuchipaku><$02><txt_spd><$05>助けてくれたんだわ。<line>
+//<txt_spd><$03>私を・・・。<wait><$04><end>
+
+
+
+//POINTER #499 @ $203F6 - STRING #499 @ $23577
+
+#W16($203F6)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>あ!<wait><$02><line>
+//<end>
+
+
+
+//POINTER #500 @ $203F8 - STRING #500 @ $23583
+
+#W16($203F8)
+//<txt_color><$00><avatar><$07><kuchipaku><$00>いっ<wait><$02><txt_spd><$03>痛・・・。<line>
+//<end>
+
+
+
+//POINTER #501 @ $203FA - STRING #501 @ $23598
+
+#W16($203FA)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ちょうつがいが壊れて<line>
+//今にも外れそうだ<end>
+
+
+
+//POINTER #502 @ $203FC - STRING #502 @ $235BC
+
+#W16($203FC)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>すきまから1階の<line>
+//床が見える<end>
+
+
+
+//POINTER #503 @ $203FE - STRING #503 @ $235D9
+
+#W16($203FE)
+//<txt_color><$00><avatar><$00><kuchipaku><$00><txt_spd><$05>・・・。<wait><$02><end>
+
+
+
+//POINTER #504 @ $20400 - STRING #504 @ $235E8
+
+#W16($20400)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>ここだけ壁を<line>
+//ぬりなおしたようだ<end>
+
+
+
+//POINTER #505 @ $20402 - STRING #505 @ $23608
+
+#W16($20402)
+//<txt_color><$00><avatar><$00><kuchipaku><$00>あっ!<wait><$02><end>
+
+
+
+//POINTER #506 @ $20404 - STRING #506 @ $23615
+
+#W16($20404)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>銅像のふところに小さ<line>
+//な像が隠してある<wait><$02><end>
+
+
+
+//POINTER #507 @ $20406 - STRING #507 @ $2363B
+
+#W16($20406)
+//<txt_color><$00><avatar><$00><kuchipaku><$01><txt_spd><$05>なんだか<line>
+//冷たい<kuchipaku><$00><txt_spd><$08>・・・。<wait><$02><end>
+
+
+
+//POINTER #508 @ $20408 - STRING #508 @ $23659
+
+#W16($20408)
+//<avatar><$00><kuchipaku><$00><txt_spd><$01><txt_color><$01>小さな像の下部は十文<line>
+//字にとび出している<wait><$02><end>
+
+
+
+//POINTER #509 @ $2040A - STRING #509 @ $23684
+
+#W16($2040A)
+//『小さな魔像』を<line>
+//手に入れた<end>
+
+
+
+//POINTER #510 @ $2040C - STRING #510 @ $2369C
+
+#W16($2040C)
+//<avatar><$00><kuchipaku><$00><txt_color><$01>ただの木の板だ<line>
+//<end>
+
+
+
+//POINTER #511 @ $2040E - STRING #511 @ $236B1
+
+#W16($2040E)
+//1・0986<line>
+//Dr.ウォルターシンプソ記す<line>
+//<line>
+//<line>
+//とじこめられてでに3日なる。<line>
+//<line>
+//私もう長くはつまい<line>
+//<line>
+//全がおわ前<line>
+//知かぎりのをし<line>
+//世災た<line>
+//双子<line>
+//<line>
+//夫人出産<line>
+//屋敷へよば<line>
+//<line>
+//そ時<line>
+//みヤツ<line>
+//悪魔箔達だ<line>
+//<line>
+//右手<line>
+//食ち<line>
+//<line>
+//体機能不完<line>
+//<line>
+//生きず<line>
+//<line>
+//、<line>
+//続け<line>
+//ん<line>
+//消滅させほ<line>
+//<line>
+//っ<line>
+//恐ろ違<line>
+//<line>
+//息苦<line>
+//<line>
+//部空気<line>
+//無あ<line>
+//<line>
+//星下ゆご<line>
+//<line>
+//<line>
+//黒ねむ<line>
+//<line>
+//ジェニファ<end>
+
+
